@@ -1,0 +1,1017 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedXenotype>
+	<meta>
+		<gameVersion>1.5.4409 rev1120</gameVersion>
+		<modIds>
+			<li>zetrith.prepatcher</li>
+			<li>brrainz.harmony</li>
+			<li>bs.fishery</li>
+			<li>ludeon.rimworld</li>
+			<li>bs.performance</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>ludeon.rimworld.anomaly</li>
+			<li>redmattis.betterprerequisites</li>
+			<li>m00nl1ght.geologicallandforms</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>neronix17.toolbox</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>neronix17.outland.genetics</li>
+			<li>neronix17.outerrim.galacticdiversity</li>
+			<li>neronix17.outerrim.core</li>
+			<li>neronix17.outerrim.rebelalliance</li>
+			<li>neronix17.outerrim.furnitureanddecor</li>
+			<li>neronix17.outerrim.mandalore</li>
+			<li>neronix17.outerrim.oldrepublic</li>
+			<li>neronix17.outerrim.galacticempire</li>
+			<li>neronix17.asimov</li>
+			<li>neronix17.outerrim.droiddepot</li>
+			<li>turnovus.biotech.integratedgenes</li>
+			<li>owlchemist.fridgeutilities</li>
+			<li>vanillaexpanded.vpsycastse</li>
+			<li>guy762.starwarsxenotypes</li>
+			<li>zal.jecslitels</li>
+			<li>projectjedi.lightsabers</li>
+			<li>taranchuk.performanceoptimizer</li>
+			<li>co.uk.epicguru.meleeanimation</li>
+			<li>lee.theforce.psycast</li>
+			<li>mlie.savethingasimage</li>
+			<li>com.yayo.yayoani.continued</li>
+			<li>imranfish.xmlextensions</li>
+			<li>orion.xevarimhair</li>
+			<li>neronix17.retexture.xevarimhair</li>
+			<li>zal.wmbp</li>
+			<li>won2.hair</li>
+			<li>won.hair</li>
+			<li>neronix17.retexture.wonhairwomen</li>
+			<li>neronix17.retexture.wonhairmen</li>
+			<li>inglix.widermarriagespot</li>
+			<li>sambucher.waycan</li>
+			<li>co.uk.epicguru.whatsthatmod</li>
+			<li>bodlosh.weaponstats</li>
+			<li>victor.wallsaresolid</li>
+			<li>vanillaexpanded.vfemedical</li>
+			<li>zal.wallvitalsmonitor</li>
+			<li>ucp.walldecorations</li>
+			<li>haplo.miscellaneous.training</li>
+			<li>sirvan.misctrainingretexture</li>
+			<li>vanillaexpanded.vtexe</li>
+			<li>sirvan.mwretextured</li>
+			<li>ratys.rtsolarflareshield</li>
+			<li>phoenix135.vanillahsolarshieldretexture</li>
+			<li>vanillaracesexpanded.customicons</li>
+			<li>vanillaexpanded.vplantse</li>
+			<li>vanillaexpanded.vplantsemushrooms</li>
+			<li>vanillaexpanded.vplantsemore</li>
+			<li>neronix17.hd.pawns</li>
+			<li>vanillaexpanded.vnutriente</li>
+			<li>zed.0xff.vnpe.minigrinder</li>
+			<li>vanillaexpanded.ideo.sophianstyle</li>
+			<li>vanillaexpanded.ideo.relicsandartifacts</li>
+			<li>vanillaexpanded.vbookse</li>
+			<li>sarg.alphaanimals</li>
+			<li>vanillaexpanded.vmemese</li>
+			<li>vanillaexpanded.ideo.iconsandsymbols</li>
+			<li>neronix17.retexture.vanillahair</li>
+			<li>vanillaexpanded.vhe</li>
+			<li>vanillaexpanded.vfespacer</li>
+			<li>vanillaexpanded.vfesecurity</li>
+			<li>vanillaexpanded.vfepropsanddecor</li>
+			<li>vanillaexpanded.vfeproduction</li>
+			<li>vanillaexpanded.vfepower</li>
+			<li>vanillaexpanded.vfeart</li>
+			<li>vanillaexpanded.vfearchitect</li>
+			<li>vanillaexpanded.vfecore</li>
+			<li>neronix17.retexture.vanillabeards</li>
+			<li>vanillaexpanded.basegenerationexpanded</li>
+			<li>vanillaexpanded.vaeroy</li>
+			<li>vanillaexpanded.vanillaanimalsexpanded</li>
+			<li>happycam.vitalsretexture</li>
+			<li>neronix17.tweaksgalore</li>
+			<li>shenanigans.tribaltattoos</li>
+			<li>tribalcrib.mod</li>
+			<li>wexman.trainingconsole1.2</li>
+			<li>smashphil.dropspot</li>
+			<li>tyinplop.toughnessskillmod</li>
+			<li>owlchemist.toggleableoverlays</li>
+			<li>jaxe.toggleharvest</li>
+			<li>lumi.throneplus</li>
+			<li>orion.therapy</li>
+			<li>darthstarsky.shieldsaber</li>
+			<li>shenanigans.techtattoos</li>
+			<li>gerrymon.stylizedslavecollar</li>
+			<li>leoltron.storedresearch</li>
+			<li>redram.stoneconversion</li>
+			<li>lee.lightsaber.addon</li>
+			<li>lumi.slaveoutfit</li>
+			<li>lee.factionpatches</li>
+			<li>smashphil.srtsexpanded</li>
+			<li>omgsplat.genesplit</li>
+			<li>mlie.consistentmapstone</li>
+			<li>mlie.soilrelocationframework</li>
+			<li>sarg.alphamemes</li>
+			<li>smashphil.vehicleframework</li>
+			<li>kentington.saveourship2</li>
+			<li>vanillaexpanded.vtexe.sos2</li>
+			<li>rebuild.cotr.doorsandcorners</li>
+			<li>iceman.smoothwallsandfloors</li>
+			<li>fozzy422.smoothwallsfirst</li>
+			<li>sarg.smartspeed</li>
+			<li>sl4vp0wer.sleepmeditation.1.5</li>
+			<li>bustedbunny.slaverebellionsimproved</li>
+			<li>usgiyi.slaveoutfits</li>
+			<li>sov.redmaskstarwars</li>
+			<li>gomi.simplestairs</li>
+			<li>petetimessix.simplesidearms</li>
+			<li>dark.signs</li>
+			<li>neronix17.shieldgenerators</li>
+			<li>memegoddess.searchanddestroy</li>
+			<li>neronix17.embrasures</li>
+			<li>mlie.scrollablegenelist</li>
+			<li>katana.scenarioamender</li>
+			<li>jelheb.rusticmealretexture</li>
+			<li>roolo.runandgun</li>
+			<li>mobius.royaltytweaks</li>
+			<li>lvlvbnh.rolesuntied</li>
+			<li>quixotic.rolescanwait</li>
+			<li>sov.sithdeco</li>
+			<li>rimsenal.hair</li>
+			<li>neronix17.retexture.rimsenalrimhair</li>
+			<li>jaxe.rimhud</li>
+			<li>deadmano.rimanotexturefix</li>
+			<li>scorpio.resourcedictionary</li>
+			<li>uuugggg.replacestuff</li>
+			<li>dev.tobot.renamesettlements</li>
+			<li>relta.renamepawns</li>
+			<li>reel.hair2</li>
+			<li>redmattis.optimization</li>
+			<li>garwel.recruitslaves</li>
+			<li>xrushha.rechargeablebroadshieldpack</li>
+			<li>rimworld.randomcoughdrop.geneassistant</li>
+			<li>lvlvbnh.raisespecialistlimit</li>
+			<li>bluebird.com.tammybee.raiderinfo</li>
+			<li>hatti.qualitybuilder</li>
+			<li>tr.qualcolor</li>
+			<li>mute.vpesensitivity</li>
+			<li>oracle.miscellania</li>
+			<li>sarg.alphapropsparks</li>
+			<li>ferny.propscore</li>
+			<li>ferny.propsforsimplestairs</li>
+			<li>neptimus7.progressrenderer</li>
+			<li>chemtoneutro.velcroboy333</li>
+			<li>mlie.prisonerarena</li>
+			<li>scherub.planningextended</li>
+			<li>mehni.pickupandhaul</li>
+			<li>owlchemist.perspectivepaths</li>
+			<li>joseasoler.peerpressure</li>
+			<li>fed1splay.pawntargetfix</li>
+			<li>annoprofi.pawngressrenderer</li>
+			<li>turnovus.submod.backpacksarenotbelts</li>
+			<li>oracle.erin.tattoos</li>
+			<li>gguake.optionalnamedisplay</li>
+			<li>com.bymarcin.architecticons</li>
+			<li>proxyer.optionalicons4ai</li>
+			<li>seohyeon.optimizationmeats</li>
+			<li>redundant.oopsallgenepacks.dutch</li>
+			<li>mehni.numbers</li>
+			<li>dvs.norandomrelations</li>
+			<li>edern.norandomapparelonideoedit</li>
+			<li>mlie.nomissinggeneicons</li>
+			<li>doug.nojobauthors</li>
+			<li>dingo.noforcedslowdown</li>
+			<li>kathanon.nodisabledfactions</li>
+			<li>bar0th.nodebris</li>
+			<li>radzerp.naturalpaths</li>
+			<li>oblitus.mylittleplanet</li>
+			<li>ferny.moveyourmonolith</li>
+			<li>morphsassorted.biotechretex</li>
+			<li>sinnamon.moreritualrewards</li>
+			<li>yorbil.missingfabricationrecipes</li>
+			<li>dd.unofficial.notfood.mendandrecycle</li>
+			<li>m00nl1ght.mappreview</li>
+			<li>scorpio.makeanythingcraftable</li>
+			<li>sarg.alphabiomes</li>
+			<li>zal.majesticfoilageframework</li>
+			<li>zal.majesticcomigopack</li>
+			<li>majesticmadman.starwarsshipssrts</li>
+			<li>lwm.deepstorage</li>
+			<li>kathanon.limitquestpawns</li>
+			<li>kaeh.largeblackboards</li>
+			<li>dhultgren.keepbedownership</li>
+			<li>mlie.justputitoverthere</li>
+			<li>mlie.inwallshelf</li>
+			<li>h2forge.inclusiveskintones</li>
+			<li>nuff.ideofacticon</li>
+			<li>ventaextera.ideorolepatch</li>
+			<li>louze.hiddencryptosleep</li>
+			<li>botchjob.hthair</li>
+			<li>neronix17.hairstyles</li>
+			<li>jdalt.hcfun</li>
+			<li>thek.guardingp</li>
+			<li>telefonmast.graphicssettings</li>
+			<li>mlie.giveupyourbuilding</li>
+			<li>amch.eragon.hcgenefabrication</li>
+			<li>ferny.easycaravanformation</li>
+			<li>garethp.familytree</li>
+			<li>pirateby.factionmanager.bytgparcher.updated</li>
+			<li>azravos.factioncustomizer</li>
+			<li>erin.hair2</li>
+			<li>erin.hairredux</li>
+			<li>erin.body.texture</li>
+			<li>erin.bg3.hair</li>
+			<li>vambypants111.epichrivers</li>
+			<li>zal.eltexbodysuit</li>
+			<li>taggerung.easyideoswitching</li>
+			<li>slashandz.easyconversions</li>
+			<li>collapse.dunesofrim.harkonnen</li>
+			<li>dubwise.dubsmintmenus</li>
+			<li>hartarok.dresses</li>
+			<li>jecrell.doorsexpanded</li>
+			<li>lumi.doorsexpanded</li>
+			<li>jangodsoul.ds2.lc</li>
+			<li>unlimitedhugs.defensivepositions</li>
+			<li>nmeijer.configurablementalbreaks</li>
+			<li>kikohi.coloreddeepresources</li>
+			<li>silkcircuit.combinecolonistsmod</li>
+			<li>neceros.closecryptos</li>
+			<li>owlchemist.cleanpathfinding</li>
+			<li>kapitanoczywisty.changemapedge</li>
+			<li>monkey5206.carrycapacityfixed</li>
+			<li>brrainz.cameraplus</li>
+			<li>devdisigdu.bulk.components</li>
+			<li>nalzurin.autoimplanter</li>
+			<li>falconne.bwm</li>
+			<li>jm.bettertraders</li>
+			<li>steve.betterquestrewards</li>
+			<li>kikohi.bettergroundpenetratingscanner</li>
+			<li>redmattis.bettergeneinheritance</li>
+			<li>ben.automaticslaveoutfit</li>
+			<li>ben.automaticnightowl</li>
+			<li>lingluo.pawncuter</li>
+			<li>anthitei.athsideocolorpalette.colors</li>
+			<li>unlimitedhugs.allowtool</li>
+			<li>alt4s.alliesarehelpful</li>
+			<li>superniquito.allideoligionsarefluid</li>
+			<li>nitrodev.absolutelynoroof</li>
+			<li>xeonovadan.visiblepants</li>
+			<li>mlie.syrindividuality</li>
+			<li>jgh.srtsretexture</li>
+			<li>jgh.door</li>
+			<li>nals.customportraits</li>
+			<li>harkon.veaddon.vanillaexpandedextraembrasures</li>
+			<li>grizzlemethis.tradingspot.rw</li>
+			<li>grizzlemethis.tickspersecond.rw</li>
+			<li>frozensnowfox.morequests</li>
+			<li>frozensnowfox.meditationfreedom</li>
+			<li>frozensnowfox.filthvanisheswithrainandtime</li>
+			<li>frozensnowfox.complexjobs</li>
+			<li>frozensnowfox.bettercamploot</li>
+			<li>frozensnowfox.betterancientcomplexloot</li>
+			<li>zal.eyeprosthetics</li>
+			<li>better.plants</li>
+			<li>cf.anomalyupscaled</li>
+			<li>cat2002.showhair</li>
+			<li>odz.male.hairstyles</li>
+			<li>odz.female.hairstyles</li>
+			<li>vpe.horaxian.sentinel</li>
+			<li>mlie.yayosendgame</li>
+			<li>m00nl1ght.geologicallandforms.biometransitions</li>
+			<li>zal.majesticcmt</li>
+			<li>tzverg.superorganism.cmt</li>
+			<li>bs.xenotypespawncontrol</li>
+			<li>dimonsever000.animaobelisk.specific</li>
+			<li>mrkociak.animaobeliskretexture</li>
+			<li>fang.saveourship2advancedsalvagebay</li>
+			<li>void.charactereditor</li>
+			<li>m.sos2stuffed</li>
+			<li>pa.vehullcornersretexture</li>
+			<li>pa.morehullcorners</li>
+			<li>thecaffiend.sos2spinalengines</li>
+			<li>hrg164hjo.vfefuelpipenet.sos2</li>
+			<li>glasses.sos2srtszone</li>
+			<li>canon.titularroyalty</li>
+			<li>mlie.starwarsanimalcollection</li>
+			<li>fluffytowels.standingcryptosleepcasket</li>
+			<li>sarg.alphaimplants</li>
+			<li>mlie.choosewildanimalspawns</li>
+			<li>carolusclen.dlc.wmbp</li>
+			<li>cyanobot.flushbiotuning</li>
+			<li>inglix.fasterbiosculptingpod</li>
+			<li>vesper.egihologramsandprojectors</li>
+			<li>vanillaexpanded.vfefarming</li>
+			<li>z4k97b.altarsinthroneroom</li>
+			<li>dark.jobinbar</li>
+			<li>neronix17.retexture.charactereditor</li>
+			<li>vanillaexpanded.vchemfuele</li>
+			<li>telardo.multifloors</li>
+			<li>ferny.progressionverticality</li>
+			<li>woolyung.heldhuman</li>
+			<li>kipsmods.adjustableabilitycooldowns</li>
+			<li>limetreesnake.systems</li>
+			<li>limetreesnake.furnishing</li>
+			<li>louize.jobinbar.patch</li>
+			<li>ionfrigate12345.sos2showhairpatch</li>
+			<li>nightz.sos2evapatcher</li>
+			<li>bt.outerrimfactionpatches</li>
+			<li>bt.xenotyperemix.starwars</li>
+			<li>proxyer.steamgeyserbuilding</li>
+			<li>antaioz.modmedicinepatch</li>
+			<li>wemd.fastmoisturepumps</li>
+			<li>toxicquokka.movablepumps</li>
+			<li>vanillaexpanded.vaeaccessories</li>
+			<li>zal.moreutilitypacks</li>
+			<li>veltaris.colonistbar</li>
+			<li>linnun.autocastspecialistcommands</li>
+			<li>taggerung.iaintbuildingthat</li>
+			<li>zal.chooseyourrecipe</li>
+			<li>mlie.displaycases</li>
+			<li>linnun.keepconverting</li>
+			<li>krkr.rocketman</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>1149640</li>
+			<li>1392840</li>
+			<li>1826140</li>
+			<li>2380740</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>1966995052</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>867467808</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Prepatcher</li>
+			<li>Harmony</li>
+			<li>Fishery - Modding Library</li>
+			<li>Core</li>
+			<li>Performance Fish</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Anomaly</li>
+			<li>Big and Small - Framework</li>
+			<li>Geological Landforms</li>
+			<li>HugsLib</li>
+			<li>Tabula Rasa</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>Outland - Genetics</li>
+			<li>Outer Rim - Galactic Diversity</li>
+			<li>Outer Rim - Core</li>
+			<li>Outer Rim - Rebel Alliance</li>
+			<li>Outer Rim - Furniture &amp; Decor</li>
+			<li>Outer Rim - Mandalore</li>
+			<li>Outer Rim - Old Republic</li>
+			<li>Outer Rim - Galactic Empire</li>
+			<li>Asimov</li>
+			<li>Outer Rim - Droid Depot</li>
+			<li>Integrated Genes</li>
+			<li>Simple Utilities: Fridge</li>
+			<li>Vanilla Psycasts Expanded</li>
+			<li>Star Wars Xenotypes</li>
+			<li>JecsLite - Lightsabers</li>
+			<li>Star Wars - Fully Functional Lightsabers</li>
+			<li>Performance Optimizer</li>
+			<li>Melee Animation</li>
+			<li>Star Wars : The Force-Psycast</li>
+			<li>Save Thing As Image</li>
+			<li>Yayo's Animation (Continued)</li>
+			<li>XML Extensions</li>
+			<li>Xeva's Rimhair</li>
+			<li>Xeva's Rimhair Retextured</li>
+			<li>World Map Beautification Project (Continued)</li>
+			<li>Won hair_women </li>
+			<li>Won hair_men</li>
+			<li>Won Hair Women Retextured</li>
+			<li>Won Hair Men Retextured</li>
+			<li>Wider Marriage Spot</li>
+			<li>Who are you calling a narrowhead?</li>
+			<li>What's That Mod</li>
+			<li>WeaponStats</li>
+			<li>Walls are solid</li>
+			<li>Vanilla Furniture Expanded - Medical Module</li>
+			<li>Wall Vitals Monitor (Continued)</li>
+			<li>Wall Decorations</li>
+			<li>Misc. Training</li>
+			<li>Van's Retexture : Misc. Training</li>
+			<li>Vanilla Textures Expanded</li>
+			<li>Van's Retexture : Melee Weapons</li>
+			<li>RT Solar Flare Shield</li>
+			<li>Vanilla Solar Shield Retexture</li>
+			<li>Vanilla Races Expanded - Custom Icons</li>
+			<li>Vanilla Plants Expanded</li>
+			<li>Vanilla Plants Expanded - Mushrooms</li>
+			<li>Vanilla Plants Expanded - More Plants</li>
+			<li>Vanilla Pawns Retextured</li>
+			<li>Vanilla Nutrient Paste Expanded</li>
+			<li>Vanilla Nutrient Paste Expanded: MiniGrinder</li>
+			<li>Vanilla Ideology Expanded - Sophian Style</li>
+			<li>Vanilla Ideology Expanded - Relics and Artifacts</li>
+			<li>Vanilla Books Expanded</li>
+			<li>Alpha Animals</li>
+			<li>Vanilla Ideology Expanded - Memes and Structures</li>
+			<li>Vanilla Ideology Expanded - Icons and Symbols</li>
+			<li>Vanilla Hair Retextured</li>
+			<li>Vanilla Hair Expanded</li>
+			<li>Vanilla Furniture Expanded - Spacer Module</li>
+			<li>Vanilla Furniture Expanded - Security</li>
+			<li>Vanilla Furniture Expanded - Props and Decor</li>
+			<li>Vanilla Furniture Expanded - Production</li>
+			<li>Vanilla Furniture Expanded - Power</li>
+			<li>Vanilla Furniture Expanded - Art</li>
+			<li>Vanilla Furniture Expanded - Architect</li>
+			<li>Vanilla Furniture Expanded</li>
+			<li>Vanilla Beards Retextured</li>
+			<li>Vanilla Base Generation Expanded</li>
+			<li>Vanilla Animals Expanded — Royal Animals</li>
+			<li>Vanilla Animals Expanded</li>
+			<li>Vanilla + Wall Vitals Monitors Retexture</li>
+			<li>Tweaks Galore</li>
+			<li>Tribal Tattoos</li>
+			<li>Tribal Crib</li>
+			<li>Training Console1.2</li>
+			<li>Trade Ships Drop Spot</li>
+			<li>Toughness Skill</li>
+			<li>Toggleable Overlays</li>
+			<li>Toggle Harvest</li>
+			<li>Thrones plus</li>
+			<li>Therapy</li>
+			<li>The force Psycast: Shieldsaber Addon</li>
+			<li>Tech Tattoos</li>
+			<li>Stylized Slave Collars and Headgears</li>
+			<li>Stored Research</li>
+			<li>Stone Conversion Recipes</li>
+			<li>Star Wars:Lightsaber Addon</li>
+			<li>Star Wars Slave Bikini Outfit</li>
+			<li>Star Wars - Force Psycast Faction Intergrations</li>
+			<li>SRTS Expanded</li>
+			<li>Split Genepack</li>
+			<li>Consistent Map Stone (Continued)</li>
+			<li>Soil Relocation Framework (Continued)</li>
+			<li>Alpha Memes</li>
+			<li>Vehicle Framework</li>
+			<li>Save Our Ship 2</li>
+			<li>Vanilla Textures Expanded - Save Our Ship 2</li>
+			<li>ReBuild: Doors and Corners</li>
+			<li>Smooth Walls and Floors</li>
+			<li>Smooth First</li>
+			<li>Smart Speed</li>
+			<li>Sleep Meditation</li>
+			<li>Slave Rebellions Improved: Gutted 1.5</li>
+			<li>Slave Outfits [1.5]</li>
+			<li>Sith Lords of the Rim</li>
+			<li>SimpleStairs</li>
+			<li>Simple sidearms</li>
+			<li>Signs and Comments</li>
+			<li>Shield Generators</li>
+			<li>Search and Destroy (Unofficial Update)</li>
+			<li>Seamless Embrasures</li>
+			<li>Scrollable Genelist</li>
+			<li>Scenario Amender [1.5]</li>
+			<li>Rustic Meal Retexture</li>
+			<li>RunAndGun</li>
+			<li>Royalty Tweaks</li>
+			<li>Roles untied to memes</li>
+			<li>Roles Can Wait</li>
+			<li>Rimwars - Imperial Decorations</li>
+			<li>Rimsenal - Hair pack</li>
+			<li>Rimsenal Hair Retextured</li>
+			<li>RimHUD</li>
+			<li>Rimano: Texture Fix</li>
+			<li>Resource Dictionary</li>
+			<li>Replace Stuff</li>
+			<li>Rename Settlements</li>
+			<li>Rename Pawns</li>
+			<li>Reel's Frieren Hairs</li>
+			<li>Red's Performance Fixes (aka. Comp EggLayer Fix)</li>
+			<li>Recruit Slaves</li>
+			<li>Rechargeable Low-shield Pack</li>
+			<li>Random's Gene Assistant</li>
+			<li>Raise specialist limit</li>
+			<li>RaiderInfo[1.5] - Forked</li>
+			<li>QualityBuilder</li>
+			<li>Quality Colors 1.5 - Forked</li>
+			<li>Psychic Sensitivity Affects More (VPE)</li>
+			<li>Oracle's Miscellania</li>
+			<li>Alpha Props - Parks and Gardens</li>
+			<li>More Prop Categories</li>
+			<li>Prop Integration for SimpleStairs</li>
+			<li>Progress Renderer</li>
+			<li>Process Neutroamine from Chemfuel</li>
+			<li>Prisoner Arena (Continued)</li>
+			<li>Planning Extended</li>
+			<li>Pick Up And Haul</li>
+			<li>Perspective: Paths (unlisted)</li>
+			<li>Peer Pressure</li>
+			<li>PawnTargetFix</li>
+			<li>Pawngress Renderer</li>
+			<li>Packs Are Not Belts</li>
+			<li>Oracle + Erin's HD Tattoos</li>
+			<li>Optional Name Display</li>
+			<li>Architect Icons</li>
+			<li>Optional Icons for Architect Icons</li>
+			<li>Optimization: Meats - C# Edition</li>
+			<li>Oops All Gene Banks</li>
+			<li>Numbers</li>
+			<li>No Random Relations</li>
+			<li>No Random Apparel on Ideology Edit</li>
+			<li>No Missing Gene Icons</li>
+			<li>No Job Authors</li>
+			<li>No Forced Slowdown</li>
+			<li>No Disabled Factions In Quests</li>
+			<li>No Debris</li>
+			<li>Natural Paths</li>
+			<li>My Little Planet</li>
+			<li>Move Your Monolith</li>
+			<li>Morphs Assorted Biotech Retex</li>
+			<li>More Ritual Rewards (1.4+)</li>
+			<li>Missing Fabrication Recipes</li>
+			<li>MendAndRecycle</li>
+			<li>Map Preview</li>
+			<li>Make Anything Craftable</li>
+			<li>Alpha Biomes</li>
+			<li>Majestic Foliage Framework[HH] (Continued)</li>
+			<li>Majestic Foliage - Comigo's Original (Continued)</li>
+			<li>Madman's Star Wars Ships (SRTS)</li>
+			<li>LWM's Deep Storage</li>
+			<li>Limit Quest Pawns</li>
+			<li>Large Blackboard</li>
+			<li>Keep Bed Ownership</li>
+			<li>Just Put It Over There</li>
+			<li>InwallShelf (Continued)</li>
+			<li>Inclusive Skin Tones</li>
+			<li>Ideoligion Icon as Faction Icon</li>
+			<li>Ideo Roles Don't Forbid Work</li>
+			<li>Hide Cryptosleep Pawn</li>
+			<li>Hard Times: Hair and Beards</li>
+			<li>Hair Extensions</li>
+			<li>Hair Color Feels Unique Now</li>
+			<li>Guarding Pawns</li>
+			<li>Graphics Settings+</li>
+			<li>Give up your building (Continued)</li>
+			<li>Gene Fabrication</li>
+			<li>Ferny's Easy Caravan Formation</li>
+			<li>Family Tree</li>
+			<li>Faction Manager v1.5</li>
+			<li>Faction Customizer</li>
+			<li>Erin's Hairstyles 2</li>
+			<li>Erin's Hairstyles - Redux</li>
+			<li>Erin's Body Retexture</li>
+			<li>Erin's Baldur's Gate 3 Hairs</li>
+			<li>Epic Rivers</li>
+			<li>Eltex Bodysuit (Continued)</li>
+			<li>EasyIdeoSwitching</li>
+			<li>Easy Conversions</li>
+			<li>Dune: Harkonnen Armour &amp; Weapon Pack</li>
+			<li>Dubs Mint Menus</li>
+			<li>Dresses in the Rim</li>
+			<li>Doors Expanded</li>
+			<li>Door Expanded Star Wars edition</li>
+			<li>Destiny - Cabal Armor</li>
+			<li>Defensive Positions</li>
+			<li>Configurable Mental Breaks</li>
+			<li>Colored deep resources</li>
+			<li>Colonist Merger</li>
+			<li>Close Cryptos - 1.5 Fork</li>
+			<li>Clean Pathfinding 2</li>
+			<li>Change map edge limit</li>
+			<li>Carry Capacity Fixed (Continued)</li>
+			<li>Camera+</li>
+			<li>Bulk Components</li>
+			<li>Bionix Automator</li>
+			<li>Better Workbench Management</li>
+			<li>Better Traders</li>
+			<li>Better Quest Rewards</li>
+			<li>Better ground-penetrating scanner</li>
+			<li>Better Gene Inheritance</li>
+			<li>Automatic Slave Outfit</li>
+			<li>Automatic Night Owl</li>
+			<li>Auto Dissector</li>
+			<li>ATH's Ideo Colors Pallette</li>
+			<li>Allow Tool</li>
+			<li>Allies are Helpful</li>
+			<li>All Ideoligions Are Fluid</li>
+			<li>Absolutely No Roof</li>
+			<li>[XND] Visible Pants</li>
+			<li>[SYR] Individuality (Continued)</li>
+			<li>[sbz] SRTS Expanded retexture</li>
+			<li>[sbz] Doors Expanded retexture</li>
+			<li>[NL] Custom Portraits</li>
+			<li>[HRK] Vanilla Expanded Extra Embrasures</li>
+			<li>[GMT] Trading Spot</li>
+			<li>[GMT] TicksPerSecond 1.5</li>
+			<li>[FSF] More Quests</li>
+			<li>[FSF] Meditation Freedom</li>
+			<li>[FSF] Filth Vanishes With Rain And Time</li>
+			<li>[FSF] Complex Jobs</li>
+			<li>[FSF] Better Camp Loot</li>
+			<li>[FSF] Better Ancient Complex Loot</li>
+			<li>[CZK] Eye Prosthetics (Continued)</li>
+			<li>[CF] Better Looking Plants</li>
+			<li>[CF] Anomaly Upscaled</li>
+			<li>[CAT] Show Hair With Hats or Hide All Hats</li>
+			<li>[1.5] Odz Hairs - Male</li>
+			<li>[1.5] Odz Hairs - Female</li>
+			<li>VPE - Horaxian</li>
+			<li>Yayo's EndGame (Continued)</li>
+			<li>Biome Transitions</li>
+			<li>Majestic Foliage - Djeeshka's CMT Retexture (Continued)</li>
+			<li>Superorganism CMT</li>
+			<li>Xenotype Spawn Control</li>
+			<li>Anima Obelisk</li>
+			<li>Anima Obelisk Retexture</li>
+			<li>Save Our Ship 2 Advanced Salvage Bay</li>
+			<li>Character Editor</li>
+			<li>SOS2 Stuffed</li>
+			<li>SOS2_Pa's_VTE_Hull Corners retexture</li>
+			<li>SOS2 Pa的更多长度船体斜角——PA's More hull corners</li>
+			<li>Spinal Engines for SOS2</li>
+			<li>Fuel Pipenet for SOS2</li>
+			<li>Roofless hull for SOS2</li>
+			<li>Titular Royalty</li>
+			<li>Star Wars Animal Collection (Continued)</li>
+			<li>Standing Cryptopods</li>
+			<li>Alpha Implants</li>
+			<li>Choose Wild Animal Spawns</li>
+			<li>World Map Beautification Project - for Alpha Biomes</li>
+			<li>Flush Biosculpter Tuning</li>
+			<li>Faster Biosculpter Pod</li>
+			<li>EGI Holograms and Projectors</li>
+			<li>Vanilla Furniture Expanded - Farming</li>
+			<li>Allow Altars in Throneroom</li>
+			<li>Job In Bar</li>
+			<li>Character Editor Retextured</li>
+			<li>Vanilla Chemfuel Expanded</li>
+			<li>MultiFloors</li>
+			<li>Progression: Verticality</li>
+			<li>Held Human</li>
+			<li>Adjustable Ability Cooldowns</li>
+			<li>[LTS]Systems</li>
+			<li>[LTS]Furnishing</li>
+			<li>JobinBar Patch</li>
+			<li>SOS2 - Show Hair Compatibility Patch</li>
+			<li>Sos2 Eva Patcher</li>
+			<li>[BT] Outer Rim Faction Patches</li>
+			<li>[BT] Xenotype Remix: Star Wars Patches</li>
+			<li>Geyser Deconstruct patch</li>
+			<li>Mod Medicine Patch</li>
+			<li>[WD] Fast Moisture Pumps</li>
+			<li>Movable Pumps</li>
+			<li>Vanilla Apparel Expanded — Accessories</li>
+			<li>More Utility Packs (Continued)</li>
+			<li>[AV] Show Utility Apparel</li>
+			<li>Auto-Cast Specialist Commands</li>
+			<li>I Aint Building That</li>
+			<li>Choose Your Recipe (Continued)</li>
+			<li>Display Cases (Continued)</li>
+			<li>Keep Converting</li>
+			<li>RocketMan - Performance Mod</li>
+		</modNames>
+	</meta>
+	<xenotype>
+		<name>Feeorin</name>
+		<inheritable>True</inheritable>
+		<genes>
+			<li>DiseaseFree</li>
+			<li>TotalHealing</li>
+			<li>guy762_FacialRidges_bumpy</li>
+			<li>guy762_Headbone_nautolan</li>
+			<li>guy762_Beard_chintendril</li>
+			<li>guy762_BodySizeGene_bigger</li>
+			<li>guy762_lifespan_quad</li>
+			<li>Turn_Gene_TraitGrandeur</li>
+			<li>Aggression_Aggressive</li>
+			<li>Robust</li>
+			<li>Outland_EggLayer</li>
+			<li>Hair_BaldOnly</li>
+			<li>Beard_NoBeardOnly</li>
+			<li>Outland_Pos2Metabolism</li>
+			<li>Jaw_Heavy</li>
+			<li>Body_Hulk</li>
+			<li>Skin_Blue</li>
+			<li>Skin_Purple</li>
+			<li>guy762_Skin_Turquoise</li>
+			<li>Eyes_Red</li>
+			<li>Outland_Eye_Orange</li>
+			<li>Outland_Eye_Yellow</li>
+			<li>Outland_ThickSkin</li>
+		</genes>
+		<iconDef>Basic</iconDef>
+	</xenotype>
+</savedXenotype>
