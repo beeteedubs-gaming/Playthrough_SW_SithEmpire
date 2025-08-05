@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SaveOurShip2.ModSettings_SoS">
+		<difficultySoS>0.100000001490116</difficultySoS>
+		<frequencySoS>0</frequencySoS>
+		<navyShipChance>0</navyShipChance>
+		<fleetChance>0</fleetChance>
+		<easyMode>True</easyMode>
+		<useSplashScreen>False</useSplashScreen>
+		<archoRemove>True</archoRemove>
+		<archoKill>True</archoKill>
+		<enemyMapSize>250</enemyMapSize>
+	</ModSettings>
+</SettingsBlock>

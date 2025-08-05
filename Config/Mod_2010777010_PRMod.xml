@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ProgressRenderer.PRModSettings">
+		<renderFeedback>Message</renderFeedback>
+		<renderZones>False</renderZones>
+		<whichInterval>3</whichInterval>
+		<timeOfDay>10</timeOfDay>
+		<encodingFormat>UnityPNG</encodingFormat>
+		<pixelsPerCell>54</pixelsPerCell>
+		<exportPath>C:\Users\jjack\Desktop\Progress</exportPath>
+		<createSubdirs>True</createSubdirs>
+		<migratedOutputImageSettings>True</migratedOutputImageSettings>
+		<migratedInterval>True</migratedInterval>
+	</ModSettings>
+</SettingsBlock>

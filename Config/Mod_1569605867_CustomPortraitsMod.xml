@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CustomPortraits.CustomPortraitsModSettings">
+		<scaleSize>1.193053</scaleSize>
+		<offsetX>-0.002233311</offsetX>
+		<offsetZ>-0.02803952</offsetZ>
+		<EnableChangePortraitSizes>False</EnableChangePortraitSizes>
+		<portraitScaleX>48</portraitScaleX>
+		<nlCustomPortraitOffsetDict>
+			<keys>
+				<li>Human</li>
+				<li>OuterRim_ProtocolDroid</li>
+			</keys>
+			<values>
+				<li />
+				<li />
+			</values>
+		</nlCustomPortraitOffsetDict>
+	</ModSettings>
+</SettingsBlock>

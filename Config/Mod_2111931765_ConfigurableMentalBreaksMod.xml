@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="NMeijer.ConfigurableMentalBreaks.ConfigurableMentalBreaksSettings">
+		<disabledMentalBreaks>
+			<li>RunWild</li>
+			<li>GiveUpExit</li>
+			<li>Catatonic</li>
+			<li>IdeoChange</li>
+		</disabledMentalBreaks>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FacialAnimation.FacialAnimationModSettings">
+		<IgnoreEnableAnimationForRaceXenoTypeListAA>
+			<li>Human-OuterRim_Cathar</li>
+			<li>Human-guy762_xenotype_lasat</li>
+			<li>Human-OuterRim_Iridonian</li>
+			<li>Human-OuterRim_Togruta</li>
+			<li>Human-OuterRim_Jawa</li>
+			<li>Human-OuterRim_Kaleesh</li>
+			<li>Human-OuterRim_Ewok</li>
+		</IgnoreEnableAnimationForRaceXenoTypeListAA>
+	</ModSettings>
+</SettingsBlock>

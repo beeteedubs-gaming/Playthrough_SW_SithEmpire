@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AlphaBehavioursAndEvents.AlphaAnimalsEvents_Settings">
+		<alternatePokemonGraphics>False</alternatePokemonGraphics>
+		<flagBlackHiveRaids>True</flagBlackHiveRaids>
+		<flagStalkingLions>True</flagStalkingLions>
+		<flagCactipineDroppods>False</flagCactipineDroppods>
+		<flagSpiderClutchMothers>False</flagSpiderClutchMothers>
+		<flagAerofleets>True</flagAerofleets>
+		<flagGallatross>True</flagGallatross>
+		<flagBehemoth>True</flagBehemoth>
+		<flagSummitCrab>False</flagSummitCrab>
+		<flagBumbledrones>False</flagBumbledrones>
+		<flagAsteroid>False</flagAsteroid>
+		<flagAnimalisk>True</flagAnimalisk>
+		<flagMime>False</flagMime>
+		<flagFungalHusk>True</flagFungalHusk>
+		<alphaAnimalSpawnMultiplier>1</alphaAnimalSpawnMultiplier>
+	</ModSettings>
+</SettingsBlock>

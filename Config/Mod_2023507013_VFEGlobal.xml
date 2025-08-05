@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VFECore.VFEGlobalSettings">
+		<toggablePatch>
+			<keys />
+			<values />
+		</toggablePatch>
+		<disableCaching>False</disableCaching>
+		<hideRandomizeButtons>False</hideRandomizeButtons>
+		<weatherDamagesOptions>
+			<keys>
+				<li>VPE_Hurricane</li>
+				<li>Force_ForceStorm</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</weatherDamagesOptions>
+	</ModSettings>
+</SettingsBlock>
