@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="EasyIdeoSwitching.Settings">
+		<ledByConsidersIdeoRoles>False</ledByConsidersIdeoRoles>
+		<blockPrimaryIdeoChanges>False</blockPrimaryIdeoChanges>
+		<showMakeFluidOption>False</showMakeFluidOption>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Ideology_Faction_Icon.IdeoFactIconSettings">
+		<changePlayerIcon>True</changePlayerIcon>
+		<changePlayerIconColor>True</changePlayerIconColor>
+	</ModSettings>
+</SettingsBlock>

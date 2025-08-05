@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="HeldHuman.Setting.ModSettings">
+		<heldHuman.enableProducingBioferrate>True</heldHuman.enableProducingBioferrate>
+		<heldHuman.bioferriteDensity>4.998144</heldHuman.bioferriteDensity>
+		<heldHuman.frequencyTicks>0</heldHuman.frequencyTicks>
+		<heldHuman.anomalyKnowledge>0</heldHuman.anomalyKnowledge>
+		<heldHuman.powerFactor>203</heldHuman.powerFactor>
+		<heldHuman.enableFood>True</heldHuman.enableFood>
+	</ModSettings>
+</SettingsBlock>

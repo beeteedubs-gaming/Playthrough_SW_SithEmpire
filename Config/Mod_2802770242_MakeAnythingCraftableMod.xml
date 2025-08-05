@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MakeAnythingCraftable.MakeAnythingCraftableSettings">
+		<createdRecipeDefs>
+			<li>
+				<defName>MAC_Custom_Make_Shard4</defName>
+				<label>mold shard</label>
+				<workerType>RecipeWorker</workerType>
+				<ingredientValueGetterType>IngredientValueGetter_Volume</ingredientValueGetterType>
+				<description>Use Sith Dark Alchemy to mold a shard of dark technology.
+&lt;i&gt;&lt;b&gt;&lt;color=#66E0E4FF&gt;Make Anything Craftable&lt;/color&gt;&lt;/b&gt;&lt;/i&gt;</description>
+				<jobString>Molding shard.</jobString>
+				<workAmount>1600</workAmount>
+				<effectWorkingString>ButcherFlesh</effectWorkingString>
+				<soundWorkingString>Recipe_Surgery</soundWorkingString>
+				<workSpeedStatString>GeneralLaborSpeed</workSpeedStatString>
+				<workSkillString>Crafting</workSkillString>
+				<unfinishedThingDefString>UnfinishedHealthItemGhoul</unfinishedThingDefString>
+				<recipeUsersString>
+					<li>BioferriteShaper</li>
+				</recipeUsersString>
+				<researchPrerequisitesString />
+				<skillRequirementsString />
+				<ingredientsCount>
+					<li>
+						<count>1</count>
+						<thingDefs>
+							<li>Heart</li>
+						</thingDefs>
+						<categories />
+					</li>
+				</ingredientsCount>
+				<disallowedIngredients />
+				<productString>
+					<defName>Shard</defName>
+					<count>5</count>
+				</productString>
+				<allowMixingIngredients>True</allowMixingIngredients>
+			</li>
+			<li>
+				<defName>MAC_Custom_Make_Shard1</defName>
+				<label>mold shard</label>
+				<workerType>RecipeWorker</workerType>
+				<ingredientValueGetterType>IngredientValueGetter_Volume</ingredientValueGetterType>
+				<description>Use Sith Dark Alchemy to mold a shard of dark technology.</description>
+				<jobString>Molding shard.</jobString>
+				<workAmount>1600</workAmount>
+				<effectWorkingString>ButcherFlesh</effectWorkingString>
+				<soundWorkingString>Recipe_Surgery</soundWorkingString>
+				<workSpeedStatString>GeneralLaborSpeed</workSpeedStatString>
+				<workSkillString>Crafting</workSkillString>
+				<unfinishedThingDefString>UnfinishedHealthItemGhoul</unfinishedThingDefString>
+				<recipeUsersString>
+					<li>BioferriteShaper</li>
+				</recipeUsersString>
+				<researchPrerequisitesString />
+				<skillRequirementsString />
+				<ingredientsCount>
+					<li>
+						<count>1</count>
+						<thingDefs>
+							<li>Heart</li>
+						</thingDefs>
+						<categories />
+					</li>
+				</ingredientsCount>
+				<disallowedIngredients />
+				<productString>
+					<defName>Shard</defName>
+				</productString>
+				<allowMixingIngredients>True</allowMixingIngredients>
+			</li>
+			<li>
+				<defName>MAC_Custom_Make_Shard1</defName>
+				<label>mold shard</label>
+				<workerType>RecipeWorker</workerType>
+				<ingredientValueGetterType>IngredientValueGetter_Volume</ingredientValueGetterType>
+				<description>Use Sith Dark Alchemy to mold a shard of dark technology.</description>
+				<jobString>Molding shard.</jobString>
+				<workAmount>1600</workAmount>
+				<effectWorkingString>ButcherFlesh</effectWorkingString>
+				<soundWorkingString>Recipe_Surgery</soundWorkingString>
+				<workSpeedStatString>GeneralLaborSpeed</workSpeedStatString>
+				<workSkillString>Crafting</workSkillString>
+				<unfinishedThingDefString>UnfinishedHealthItemGhoul</unfinishedThingDefString>
+				<recipeUsersString>
+					<li>BioferriteShaper</li>
+				</recipeUsersString>
+				<researchPrerequisitesString />
+				<skillRequirementsString />
+				<ingredientsCount>
+					<li>
+						<count>1</count>
+						<thingDefs>
+							<li>Heart</li>
+						</thingDefs>
+						<categories />
+					</li>
+				</ingredientsCount>
+				<disallowedIngredients />
+				<productString>
+					<defName>Shard</defName>
+				</productString>
+				<allowMixingIngredients>True</allowMixingIngredients>
+			</li>
+			<li>
+				<defName>MAC_Custom_Make_Shard4</defName>
+				<label>mold shard</label>
+				<workerType>RecipeWorker</workerType>
+				<ingredientValueGetterType>IngredientValueGetter_Volume</ingredientValueGetterType>
+				<description>Use Sith Dark Alchemy to mold a shard of dark technology.
+&lt;i&gt;&lt;b&gt;&lt;color=#66E0E4FF&gt;Make Anything Craftable&lt;/color&gt;&lt;/b&gt;&lt;/i&gt;</description>
+				<jobString>Molding shard.</jobString>
+				<workAmount>1600</workAmount>
+				<effectWorkingString>ButcherFlesh</effectWorkingString>
+				<soundWorkingString>Recipe_Surgery</soundWorkingString>
+				<workSpeedStatString>GeneralLaborSpeed</workSpeedStatString>
+				<workSkillString>Crafting</workSkillString>
+				<unfinishedThingDefString>UnfinishedHealthItemGhoul</unfinishedThingDefString>
+				<recipeUsersString>
+					<li>BioferriteShaper</li>
+				</recipeUsersString>
+				<researchPrerequisitesString />
+				<skillRequirementsString />
+				<ingredientsCount>
+					<li>
+						<count>1</count>
+						<thingDefs>
+							<li>Heart</li>
+						</thingDefs>
+						<categories />
+					</li>
+				</ingredientsCount>
+				<disallowedIngredients />
+				<productString>
+					<defName>Shard</defName>
+					<count>5</count>
+				</productString>
+				<allowMixingIngredients>True</allowMixingIngredients>
+			</li>
+		</createdRecipeDefs>
+		<modifiedRecipeDefs>
+			<li>
+				<defName>Convert_Granite</defName>
+				<label>mold bioferrite</label>
+				<workerType>RecipeWorker</workerType>
+				<ingredientValueGetterType>IngredientValueGetter_Volume</ingredientValueGetterType>
+				<description>Use Sith Dark Alchemy to create bioferrite</description>
+				<jobString>Molding bioferrite.</jobString>
+				<workAmount>1600</workAmount>
+				<effectWorkingString>ButcherFlesh</effectWorkingString>
+				<soundWorkingString>Recipe_ButcherCorpseFlesh</soundWorkingString>
+				<workSpeedStatString>GeneralLaborSpeed</workSpeedStatString>
+				<workSkillString>Crafting</workSkillString>
+				<unfinishedThingDefString>UnfinishedComponent</unfinishedThingDefString>
+				<recipeUsersString>
+					<li>BioferriteShaper</li>
+				</recipeUsersString>
+				<researchPrerequisitesString />
+				<skillRequirementsString />
+				<ingredientsCount>
+					<li>
+						<count>50</count>
+						<thingDefs>
+							<li>Steel</li>
+						</thingDefs>
+						<categories />
+					</li>
+				</ingredientsCount>
+				<disallowedIngredients />
+				<productString>
+					<defName>Bioferrite</defName>
+					<count>50</count>
+				</productString>
+				<allowMixingIngredients>True</allowMixingIngredients>
+				<copied>True</copied>
+			</li>
+		</modifiedRecipeDefs>
+		<removedRecipeDefs />
+	</ModSettings>
+</SettingsBlock>

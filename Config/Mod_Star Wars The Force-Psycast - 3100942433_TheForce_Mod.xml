@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TheForce_Psycast.Force_ModSettings">
+		<spinRate>1</spinRate>
+		<entropyGain>1</entropyGain>
+		<offSetMultiplier>1</offSetMultiplier>
+		<deflectionMultiplier>20</deflectionMultiplier>
+		<usePsycastStat>True</usePsycastStat>
+		<insanityChance>1</insanityChance>
+		<increasedarksideonkill>True</increasedarksideonkill>
+		<lightsaberglowenabled>True</lightsaberglowenabled>
+		<deflectionspin>True</deflectionspin>
+		<lightsaberparryEnabled>True</lightsaberparryEnabled>
+		<lightsaberCustomizationUndrafted>True</lightsaberCustomizationUndrafted>
+		<deflectableProjectileHashes />
+	</ModSettings>
+</SettingsBlock>

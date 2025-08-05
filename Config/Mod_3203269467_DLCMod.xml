@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DeepLumpColor.DLCSettings">
+		<opacityMultiplier>0.75</opacityMultiplier>
+		<deepColors>
+			<keys>
+				<li>Silver</li>
+				<li>Gold</li>
+				<li>Steel</li>
+				<li>Plasteel</li>
+				<li>Uranium</li>
+				<li>Jade</li>
+				<li>OuterRim_Tibanna</li>
+				<li>OuterRim_Beskar</li>
+				<li>OuterRim_Durasteel</li>
+			</keys>
+			<values>
+				<li>RGBA(0.706, 0.678, 0.588, 1.000)</li>
+				<li>RGBA(1.000, 0.922, 0.478, 1.000)</li>
+				<li>RGBA(0.412, 0.412, 0.412, 1.000)</li>
+				<li>RGBA(0.627, 0.698, 0.710, 1.000)</li>
+				<li>RGBA(0.392, 0.392, 0.392, 1.000)</li>
+				<li>RGBA(0.333, 0.463, 0.271, 1.000)</li>
+				<li>RGBA(0.682, 0.412, 0.749, 1.000)</li>
+				<li>RGBA(0.706, 0.706, 0.706, 1.000)</li>
+				<li>RGBA(0.588, 0.588, 0.588, 1.000)</li>
+			</values>
+		</deepColors>
+		<deepColorsSave>
+			<keys>
+				<li>Silver</li>
+				<li>Gold</li>
+				<li>Steel</li>
+				<li>Plasteel</li>
+				<li>Uranium</li>
+				<li>Jade</li>
+				<li>OuterRim_Tibanna</li>
+				<li>OuterRim_Beskar</li>
+				<li>OuterRim_Durasteel</li>
+			</keys>
+			<values>
+				<li>RGBA(0.706, 0.678, 0.588, 1.000)</li>
+				<li>RGBA(1.000, 0.922, 0.478, 1.000)</li>
+				<li>RGBA(0.412, 0.412, 0.412, 1.000)</li>
+				<li>RGBA(0.627, 0.698, 0.710, 1.000)</li>
+				<li>RGBA(0.392, 0.392, 0.392, 1.000)</li>
+				<li>RGBA(0.333, 0.463, 0.271, 1.000)</li>
+				<li>RGBA(0.682, 0.412, 0.749, 1.000)</li>
+				<li>RGBA(0.706, 0.706, 0.706, 1.000)</li>
+				<li>RGBA(0.588, 0.588, 0.588, 1.000)</li>
+			</values>
+		</deepColorsSave>
+	</ModSettings>
+</SettingsBlock>

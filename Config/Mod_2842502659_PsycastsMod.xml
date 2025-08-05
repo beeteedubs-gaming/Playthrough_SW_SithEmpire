@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VanillaPsycastsExpanded.PsycastSettings">
+		<xpPerPercent>3.035141</xpPerPercent>
+		<shrink>False</shrink>
+		<smallMode>On</smallMode>
+		<maxLevel>50</maxLevel>
+	</ModSettings>
+</SettingsBlock>

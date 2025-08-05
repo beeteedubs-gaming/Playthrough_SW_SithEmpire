@@ -1,0 +1,5106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="XenotypeSpawnControl.ModSettings">
+		<Templates>
+			<keys />
+			<values />
+		</Templates>
+		<XenotypesByFactionDef>
+			<keys>
+				<li>Ancients</li>
+				<li>AncientsHostile</li>
+				<li>Mechanoid</li>
+				<li>Insect</li>
+				<li>OutlanderCivil</li>
+				<li>OutlanderRough</li>
+				<li>TribeCivil</li>
+				<li>TribeRough</li>
+				<li>TribeSavage</li>
+				<li>Pirate</li>
+				<li>PlayerColony</li>
+				<li>PlayerTribe</li>
+				<li>OutlanderRefugee</li>
+				<li>Empire</li>
+				<li>Beggars</li>
+				<li>TribeCannibal</li>
+				<li>NudistTribe</li>
+				<li>CannibalPirate</li>
+				<li>Pilgrims</li>
+				<li>TribeRoughNeanderthal</li>
+				<li>PirateYttakin</li>
+				<li>TribeSavageImpid</li>
+				<li>OutlanderRoughPig</li>
+				<li>PirateWaster</li>
+				<li>Sanguophages</li>
+				<li>HoraxCult</li>
+				<li>Entities</li>
+				<li>ResearchExpedition</li>
+				<li>BS_PlayerTribeXenoPlus</li>
+				<li>BS_PlayerColonyXenoPlus</li>
+				<li>BS_ZombieFaction</li>
+				<li>OuterRim_BinaryStarRaiders</li>
+				<li>OuterRim_MoistureFarmers</li>
+				<li>OuterRim_RebelAlliance</li>
+				<li>OuterRim_RebelPlayerFaction</li>
+				<li>OuterRim_MandalorianCrusaders</li>
+				<li>OuterRim_DeathWatch</li>
+				<li>OuterRim_DeathWatch_Honour</li>
+				<li>OuterRim_MandoPlayerFaction</li>
+				<li>OuterRim_OldRepublic</li>
+				<li>OuterRim_SithEmpire</li>
+				<li>OuterRim_OldRepublicPlayerFaction</li>
+				<li>OuterRim_SithPlayerFaction</li>
+				<li>OuterRim_GalacticEmpire</li>
+				<li>OuterRim_EmpirePlayerFaction</li>
+				<li>OuterRim_RogueDroidColony</li>
+				<li>Force_Jedi_Remnant</li>
+				<li>Force_Sith_Order</li>
+				<li>AA_BlackHive</li>
+				<li>::Generated::NoFaction</li>
+			</keys>
+			<values>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>Baseliner</li>
+							<li>Neanderthal</li>
+							<li>Impid</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>OuterRim_Rakata</li>
+							<li>Gremlin</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Pigskin</li>
+							<li>Waster</li>
+							<li>OuterRim_Chiss</li>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Arkanian</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Bothan</li>
+							<li>OuterRim_Cathar</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Dathomirian</li>
+							<li>OuterRim_Devaronian</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Ewok</li>
+							<li>OuterRim_ForceGremlin</li>
+							<li>OuterRim_Geonosian</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Jawa</li>
+							<li>OuterRim_Kaleesh</li>
+							<li>OuterRim_Kaminoan</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Rodian</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Sith</li>
+							<li>OuterRim_Sullustan</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Tusken</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+							<li>OuterRim_Zeltron</li>
+							<li>BT_Defel</li>
+							<li>guy762_xenotype_echani</li>
+							<li>guy762_xenotype_falleen</li>
+							<li>guy762_xenotype_feeorin</li>
+							<li>guy762_xenotype_gamorrean</li>
+							<li>guy762_xenotype_gand</li>
+							<li>guy762_xenotype_hutt</li>
+							<li>guy762_xenotype_keldor</li>
+							<li>guy762_xenotype_klatoonian</li>
+							<li>guy762_xenotype_kubaz</li>
+							<li>guy762_xenotype_lasat</li>
+							<li>guy762_xenotype_mimbanese</li>
+							<li>guy762_xenotype_nagai</li>
+							<li>guy762_xenotype_nautolan</li>
+							<li>guy762_xenotype_nelvaanian</li>
+							<li>OuterRim_Massassi</li>
+							<li>guy762_xenotype_snivvian</li>
+							<li>guy762_xenotype_taung</li>
+							<li>guy762_xenotype_ugnaught</li>
+							<li>guy762_xenotype_yoder</li>
+							<li>guy762_xenotype_zygerrian</li>
+						</keys>
+						<values>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>334</chance>
+								<isAbsolute>False</isAbsolute>
+								<weight>9</weight>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>333</chance>
+								<isAbsolute>False</isAbsolute>
+								<weight>9</weight>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>333</chance>
+								<isAbsolute>False</isAbsolute>
+								<weight>9</weight>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>::Generated::Random</li>
+							<li>::Generated::Hybrid</li>
+							<li>Baseliner</li>
+							<li>Neanderthal</li>
+							<li>Impid</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>OuterRim_Rakata</li>
+							<li>Gremlin</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Sanguophage</li>
+							<li>Pigskin</li>
+							<li>Waster</li>
+							<li>OuterRim_Chiss</li>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Arkanian</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Bothan</li>
+							<li>OuterRim_Cathar</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Dathomirian</li>
+							<li>OuterRim_Devaronian</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Ewok</li>
+							<li>OuterRim_ForceGremlin</li>
+							<li>OuterRim_Geonosian</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Jawa</li>
+							<li>OuterRim_Kaleesh</li>
+							<li>OuterRim_Kaminoan</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Rodian</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Sith</li>
+							<li>OuterRim_Sullustan</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Tusken</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+							<li>OuterRim_Zeltron</li>
+							<li>BT_Defel</li>
+							<li>guy762_xenotype_echani</li>
+							<li>guy762_xenotype_falleen</li>
+							<li>guy762_xenotype_feeorin</li>
+							<li>guy762_xenotype_gamorrean</li>
+							<li>guy762_xenotype_gand</li>
+							<li>guy762_xenotype_hutt</li>
+							<li>guy762_xenotype_keldor</li>
+							<li>guy762_xenotype_klatoonian</li>
+							<li>guy762_xenotype_kubaz</li>
+							<li>guy762_xenotype_lasat</li>
+							<li>guy762_xenotype_mimbanese</li>
+							<li>guy762_xenotype_nagai</li>
+							<li>guy762_xenotype_nautolan</li>
+							<li>guy762_xenotype_nelvaanian</li>
+							<li>OuterRim_Massassi</li>
+							<li>guy762_xenotype_snivvian</li>
+							<li>guy762_xenotype_taung</li>
+							<li>guy762_xenotype_ugnaught</li>
+							<li>guy762_xenotype_yoder</li>
+							<li>guy762_xenotype_zygerrian</li>
+						</keys>
+						<values>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>334</chance>
+								<isAbsolute>False</isAbsolute>
+								<weight>9</weight>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>333</chance>
+								<isAbsolute>False</isAbsolute>
+								<weight>9</weight>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+							<li>
+								<chance>333</chance>
+								<isAbsolute>False</isAbsolute>
+								<weight>9</weight>
+							</li>
+							<li>
+								<chance>0</chance>
+								<isAbsolute>False</isAbsolute>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li />
+				<li />
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>Neanderthal</li>
+							<li>OuterRim_Rakata</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>OuterRim_Chiss</li>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Arkanian</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Bothan</li>
+							<li>OuterRim_Cathar</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Dathomirian</li>
+							<li>OuterRim_Devaronian</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Ewok</li>
+							<li>OuterRim_ForceGremlin</li>
+							<li>OuterRim_Geonosian</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Jawa</li>
+							<li>OuterRim_Kaleesh</li>
+							<li>OuterRim_Kaminoan</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Rodian</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Sith</li>
+							<li>OuterRim_Sullustan</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Tusken</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+							<li>OuterRim_Zeltron</li>
+							<li>OuterRim_Massassi</li>
+						</keys>
+						<values>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>76</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>Neanderthal</li>
+							<li>OuterRim_Rakata</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>OuterRim_Chiss</li>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Arkanian</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Bothan</li>
+							<li>OuterRim_Cathar</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Dathomirian</li>
+							<li>OuterRim_Devaronian</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Ewok</li>
+							<li>OuterRim_ForceGremlin</li>
+							<li>OuterRim_Geonosian</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Jawa</li>
+							<li>OuterRim_Kaleesh</li>
+							<li>OuterRim_Kaminoan</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Rodian</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Sith</li>
+							<li>OuterRim_Sullustan</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Tusken</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+							<li>OuterRim_Zeltron</li>
+							<li>OuterRim_Massassi</li>
+						</keys>
+						<values>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>27</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>76</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li />
+				<li />
+				<li />
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>Neanderthal</li>
+							<li>Impid</li>
+							<li>Yttakin</li>
+							<li>OuterRim_Rakata</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Pigskin</li>
+							<li>Waster</li>
+							<li>OuterRim_Chiss</li>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Arkanian</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Bothan</li>
+							<li>OuterRim_Cathar</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Dathomirian</li>
+							<li>OuterRim_Devaronian</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Ewok</li>
+							<li>OuterRim_ForceGremlin</li>
+							<li>OuterRim_Geonosian</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Jawa</li>
+							<li>OuterRim_Kaleesh</li>
+							<li>OuterRim_Kaminoan</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Rodian</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Sith</li>
+							<li>OuterRim_Sullustan</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Tusken</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+							<li>OuterRim_Zeltron</li>
+							<li>OuterRim_Massassi</li>
+						</keys>
+						<values>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>75</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>Neanderthal</li>
+							<li>Impid</li>
+							<li>Yttakin</li>
+							<li>OuterRim_Rakata</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Pigskin</li>
+							<li>Waster</li>
+							<li>OuterRim_Chiss</li>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Arkanian</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Bothan</li>
+							<li>OuterRim_Cathar</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Dathomirian</li>
+							<li>OuterRim_Devaronian</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Ewok</li>
+							<li>OuterRim_ForceGremlin</li>
+							<li>OuterRim_Geonosian</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Jawa</li>
+							<li>OuterRim_Kaleesh</li>
+							<li>OuterRim_Kaminoan</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Rodian</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Sith</li>
+							<li>OuterRim_Sullustan</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Tusken</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+							<li>OuterRim_Zeltron</li>
+							<li>OuterRim_Massassi</li>
+						</keys>
+						<values>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>25</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>76</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+							<li>
+								<chance>26</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+						</keys>
+						<values>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>95</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+						</keys>
+						<values>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>95</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+						</keys>
+						<values>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>95</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+						</keys>
+						<values>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>95</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+						</keys>
+						<values>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>95</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>Baseliner</li>
+							<li>OuterRim_Twilek</li>
+						</keys>
+						<values>
+							<li>
+								<chance>834</chance>
+							</li>
+							<li>
+								<chance>2</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li />
+				<li />
+				<li />
+			</values>
+		</XenotypesByFactionDef>
+		<XenotypesByPawnKindDef>
+			<keys>
+				<li>Grenadier_Destructive</li>
+				<li>Grenadier_EMP</li>
+				<li>Grenadier_Smoke</li>
+				<li>Mercenary_Gunner</li>
+				<li>Mercenary_Gunner_Acidifier</li>
+				<li>Mercenary_Sniper</li>
+				<li>Mercenary_Sniper_Acidifier</li>
+				<li>Mercenary_Slasher</li>
+				<li>Mercenary_Slasher_Acidifier</li>
+				<li>Mercenary_Heavy</li>
+				<li>PirateBoss</li>
+				<li>Mercenary_Elite</li>
+				<li>Mercenary_Elite_Acidifier</li>
+				<li>Villager</li>
+				<li>Town_Guard</li>
+				<li>Town_Trader</li>
+				<li>Town_Councilman</li>
+				<li>Drifter</li>
+				<li>Scavenger</li>
+				<li>Thrasher</li>
+				<li>Pirate</li>
+				<li>Colonist</li>
+				<li>Tribesperson</li>
+				<li>SpaceRefugee</li>
+				<li>SpaceRefugee_Clothed</li>
+				<li>AncientSoldier</li>
+				<li>Slave</li>
+				<li>WildMan</li>
+				<li>StrangerInBlack</li>
+				<li>Tribal_Penitent</li>
+				<li>Tribal_Archer</li>
+				<li>Tribal_Warrior</li>
+				<li>Tribal_Hunter</li>
+				<li>Tribal_Trader</li>
+				<li>Tribal_Berserker</li>
+				<li>Tribal_HeavyArcher</li>
+				<li>Tribal_ChiefMelee</li>
+				<li>Tribal_ChiefRanged</li>
+				<li>Tribal_Breacher</li>
+				<li>Mech_Termite_Breach</li>
+				<li>Bear_Grizzly</li>
+				<li>Bear_Polar</li>
+				<li>Ostrich</li>
+				<li>Emu</li>
+				<li>Cassowary</li>
+				<li>Cougar</li>
+				<li>Panther</li>
+				<li>Lynx</li>
+				<li>Cat</li>
+				<li>YorkshireTerrier</li>
+				<li>GuineaPig</li>
+				<li>LabradorRetriever</li>
+				<li>Husky</li>
+				<li>Monkey</li>
+				<li>Chicken</li>
+				<li>Duck</li>
+				<li>Turkey</li>
+				<li>Goose</li>
+				<li>Cow</li>
+				<li>Boomalope</li>
+				<li>Muffalo</li>
+				<li>Bison</li>
+				<li>Dromedary</li>
+				<li>Goat</li>
+				<li>Elk</li>
+				<li>Yak</li>
+				<li>Caribou</li>
+				<li>Horse</li>
+				<li>Donkey</li>
+				<li>Elephant</li>
+				<li>Rhinoceros</li>
+				<li>Hare</li>
+				<li>Snowhare</li>
+				<li>Megascarab</li>
+				<li>Spelopede</li>
+				<li>Megaspider</li>
+				<li>Thrumbo</li>
+				<li>Cobra</li>
+				<li>Tortoise</li>
+				<li>Alphabeaver</li>
+				<li>Pig</li>
+				<li>WildBoar</li>
+				<li>Ibex</li>
+				<li>Deer</li>
+				<li>Gazelle</li>
+				<li>Chinchilla</li>
+				<li>Sheep</li>
+				<li>Alpaca</li>
+				<li>Megasloth</li>
+				<li>Capybara</li>
+				<li>Squirrel</li>
+				<li>Rat</li>
+				<li>Boomrat</li>
+				<li>Raccoon</li>
+				<li>Iguana</li>
+				<li>Warg</li>
+				<li>Wolf_Timber</li>
+				<li>Wolf_Arctic</li>
+				<li>Fox_Fennec</li>
+				<li>Fox_Red</li>
+				<li>Fox_Arctic</li>
+				<li>Mech_CentipedeBlaster</li>
+				<li>Mech_CentipedeGunner</li>
+				<li>Mech_CentipedeBurner</li>
+				<li>Mech_Lancer</li>
+				<li>Mech_Scyther</li>
+				<li>Mech_Pikeman</li>
+				<li>Slave_Empire</li>
+				<li>Empire_Common_Lodger</li>
+				<li>Empire_Common_Trader</li>
+				<li>Empire_Common_Laborer</li>
+				<li>Empire_Fighter_Trooper</li>
+				<li>Empire_Fighter_Grenadier</li>
+				<li>Empire_Fighter_Janissary</li>
+				<li>Empire_Fighter_Champion</li>
+				<li>Empire_Fighter_Cataphract</li>
+				<li>Empire_Fighter_StellicGuardRanged</li>
+				<li>Empire_Fighter_StellicGuardMelee</li>
+				<li>Empire_Royal_NobleWimp</li>
+				<li>Empire_Royal_Yeoman</li>
+				<li>Empire_Royal_Acolyte</li>
+				<li>Empire_Royal_Knight</li>
+				<li>Empire_Royal_Praetor</li>
+				<li>Empire_Royal_Baron</li>
+				<li>Empire_Royal_Count</li>
+				<li>Empire_Royal_Duke</li>
+				<li>Empire_Royal_Consul</li>
+				<li>Empire_Royal_Stellarch</li>
+				<li>Empire_Royal_Bestower</li>
+				<li>Refugee</li>
+				<li>Tribal_Miner</li>
+				<li>Miner</li>
+				<li>Hunter</li>
+				<li>Tribal_Logger</li>
+				<li>Logger</li>
+				<li>Tribal_Farmer</li>
+				<li>Farmer</li>
+				<li>Beggar</li>
+				<li>PovertyPilgrim</li>
+				<li>WellEquippedTraveler</li>
+				<li>Dryad_Basic</li>
+				<li>Dryad_Woodmaker</li>
+				<li>Dryad_Berrymaker</li>
+				<li>Dryad_Medicinemaker</li>
+				<li>Dryad_Gaumaker</li>
+				<li>Dryad_Carrier</li>
+				<li>Dryad_Clawer</li>
+				<li>Dryad_Barkskin</li>
+				<li>Tribal_Archer_Fire</li>
+				<li>Tribal_Hunter_Fire</li>
+				<li>Tribal_Warrior_Fire</li>
+				<li>Tribal_Penitent_Fire</li>
+				<li>Tribal_Child_Fire</li>
+				<li>Villager_Pig</li>
+				<li>Villager_Child_Pig</li>
+				<li>Town_Guard_Pig</li>
+				<li>Town_Councilman_Pig</li>
+				<li>Town_Trader_Pig</li>
+				<li>Mercenary_Gunner_Pig</li>
+				<li>Mercenary_Elite_Pig</li>
+				<li>Mechanitor</li>
+				<li>Mechanitor_Basic</li>
+				<li>Sanguophage</li>
+				<li>Sanguophage_Player</li>
+				<li>SanguophageThrall</li>
+				<li>Villager_Child</li>
+				<li>Tribal_Child</li>
+				<li>Mercenary_GunnerTox</li>
+				<li>Mercenary_SlasherTox</li>
+				<li>Mercenary_EliteTox</li>
+				<li>Grenadier_Tox</li>
+				<li>Mercenary_HeavyTox</li>
+				<li>PirateBossTox</li>
+				<li>Pirate_Yttakin</li>
+				<li>Scavenger_Yttakin</li>
+				<li>Drifter_Yttakin</li>
+				<li>Thrasher_Yttakin</li>
+				<li>Mercenary_Gunner_Yttakin</li>
+				<li>Mercenary_Heavy_Yttakin</li>
+				<li>Mercenary_Slasher_Yttakin</li>
+				<li>Mercenary_Sniper_Yttakin</li>
+				<li>Mercenary_Elite_Yttakin</li>
+				<li>WasteRat</li>
+				<li>Toxalope</li>
+				<li>Mech_Tunneler</li>
+				<li>Mech_Militor</li>
+				<li>Mech_Lifter</li>
+				<li>Mech_Constructoid</li>
+				<li>Mech_Fabricor</li>
+				<li>Mech_Agrihand</li>
+				<li>Mech_Cleansweeper</li>
+				<li>Mech_WarUrchin</li>
+				<li>Mech_Paramedic</li>
+				<li>Mech_Legionary</li>
+				<li>Mech_Tesseron</li>
+				<li>Mech_Scorcher</li>
+				<li>Mech_Apocriton</li>
+				<li>Mech_Centurion</li>
+				<li>Mech_Warqueen</li>
+				<li>Mech_Diabolus</li>
+				<li>LeatheryStranger</li>
+				<li>DarkScholar</li>
+				<li>DealMaker</li>
+				<li>CreepDrifter</li>
+				<li>Blindhealer</li>
+				<li>TimelessOne</li>
+				<li>CultEscapee</li>
+				<li>LoneGenius</li>
+				<li>Nociosphere</li>
+				<li>Metalhorror</li>
+				<li>Revenant</li>
+				<li>Sightstealer</li>
+				<li>Noctol</li>
+				<li>FleshmassNucleus</li>
+				<li>Gorehulk</li>
+				<li>Devourer</li>
+				<li>Chimera</li>
+				<li>Bulbfreak</li>
+				<li>Fingerspike</li>
+				<li>Toughspike</li>
+				<li>Trispike</li>
+				<li>Dreadmeld</li>
+				<li>Horaxian_Underthrall</li>
+				<li>Horaxian_Gunner</li>
+				<li>Horaxian_Highthrall</li>
+				<li>ShamblerSwarmer</li>
+				<li>ShamblerSoldier</li>
+				<li>ShamblerGorehulk</li>
+				<li>Ghoul</li>
+				<li>Researcher</li>
+				<li>BS_ColonistXenoPlus</li>
+				<li>BS_TribespersonXenoPlus</li>
+				<li>BS_VillagerXenoPlus</li>
+				<li>BS_SpaceRefugeeXenoPlus</li>
+				<li>BS_VillagerMedieval</li>
+				<li>OuterRim_Abednedo</li>
+				<li>OuterRim_AbednedoTribal</li>
+				<li>OuterRim_Aqualish</li>
+				<li>OuterRim_AqualishTribal</li>
+				<li>OuterRim_Arkanian</li>
+				<li>OuterRim_ArkanianTribal</li>
+				<li>OuterRim_Bith</li>
+				<li>OuterRim_BithTribal</li>
+				<li>OuterRim_Bothan</li>
+				<li>OuterRim_BothanTribal</li>
+				<li>OuterRim_Cathar</li>
+				<li>OuterRim_CatharTribal</li>
+				<li>OuterRim_Cerean</li>
+				<li>OuterRim_CereanTribal</li>
+				<li>OuterRim_Nightsister</li>
+				<li>OuterRim_Nightbrother</li>
+				<li>OuterRim_NightsisterTribal</li>
+				<li>OuterRim_NightbrotherTribal</li>
+				<li>OuterRim_Devaronian</li>
+				<li>OuterRim_DevaronianTribal</li>
+				<li>OuterRim_Duros</li>
+				<li>OuterRim_DurosTribal</li>
+				<li>OuterRim_Ewok</li>
+				<li>OuterRim_EwokTribal</li>
+				<li>OuterRim_ForceGremlin</li>
+				<li>OuterRim_ForceGremlinTribal</li>
+				<li>OuterRim_Geonosian</li>
+				<li>OuterRim_GeonosianTribal</li>
+				<li>OuterRim_Gungan</li>
+				<li>OuterRim_GunganTribal</li>
+				<li>OuterRim_Herglic</li>
+				<li>OuterRim_HerglicTribal</li>
+				<li>OuterRim_Iktotchi</li>
+				<li>OuterRim_IktotchiTribal</li>
+				<li>OuterRim_Iridonian</li>
+				<li>OuterRim_IridonianTribal</li>
+				<li>OuterRim_Ithorian</li>
+				<li>OuterRim_IthorianTribal</li>
+				<li>OuterRim_Jawa</li>
+				<li>OuterRim_JawaTribal</li>
+				<li>OuterRim_Kaleesh</li>
+				<li>OuterRim_KaleeshTribal</li>
+				<li>OuterRim_Kaminoan</li>
+				<li>OuterRim_KaminoanTribal</li>
+				<li>OuterRim_Massassi</li>
+				<li>OuterRim_MassassiTribal</li>
+				<li>OuterRim_Miraluka</li>
+				<li>OuterRim_MiralukaTribal</li>
+				<li>OuterRim_Mirialan</li>
+				<li>OuterRim_MirialanTribal</li>
+				<li>OuterRim_MonCalamari</li>
+				<li>OuterRim_MonCalamariTribal</li>
+				<li>OuterRim_Neimoidian</li>
+				<li>OuterRim_NeimoidianTribal</li>
+				<li>OuterRim_Nikto</li>
+				<li>OuterRim_NiktoTribal</li>
+				<li>OuterRim_Pantoran</li>
+				<li>OuterRim_PantoranTribal</li>
+				<li>OuterRim_Pyke</li>
+				<li>OuterRim_PykeTribal</li>
+				<li>OuterRim_Quarren</li>
+				<li>OuterRim_QuarrenTribal</li>
+				<li>OuterRim_Rakata</li>
+				<li>OuterRim_RakataTribal</li>
+				<li>OuterRim_Rodian</li>
+				<li>OuterRim_RodianTribal</li>
+				<li>OuterRim_Selkath</li>
+				<li>OuterRim_SelkathTribal</li>
+				<li>OuterRim_Sith</li>
+				<li>OuterRim_SithTribal</li>
+				<li>OuterRim_Sullustan</li>
+				<li>OuterRim_SullustanTribal</li>
+				<li>OuterRim_Togruta</li>
+				<li>OuterRim_TogrutaTribal</li>
+				<li>OuterRim_Trandoshan</li>
+				<li>OuterRim_TrandoshanTribal</li>
+				<li>OuterRim_Tusken</li>
+				<li>OuterRim_TuskenTribal</li>
+				<li>OuterRim_Twilek</li>
+				<li>OuterRim_TwilekTribal</li>
+				<li>OuterRim_Umbaran</li>
+				<li>OuterRim_UmbaranTribal</li>
+				<li>OuterRim_Wookiee</li>
+				<li>OuterRim_WookieeTribal</li>
+				<li>OuterRim_Zeltron</li>
+				<li>OuterRim_ZeltronTribal</li>
+				<li>OuterRim_Grenadier_Destructive</li>
+				<li>OuterRim_Grenadier_Ion</li>
+				<li>OuterRim_Grenadier_CryoBan</li>
+				<li>OuterRim_Mercenary_Gunner</li>
+				<li>OuterRim_Mercenary_Sniper</li>
+				<li>OuterRim_Mercenary_Slasher</li>
+				<li>OuterRim_Mercenary_Heavy</li>
+				<li>OuterRim_PirateBoss</li>
+				<li>OuterRim_Mercenary_Elite</li>
+				<li>OuterRim_TownSettler</li>
+				<li>OuterRim_TownGuard</li>
+				<li>OuterRim_TownTrader</li>
+				<li>OuterRim_TownCouncilman</li>
+				<li>OuterRim_Drifter</li>
+				<li>OuterRim_Scavenger</li>
+				<li>OuterRim_Thrasher</li>
+				<li>OuterRim_Pirate</li>
+				<li>OuterRim_RebelTrader</li>
+				<li>OuterRim_RebelFleetTrooper</li>
+				<li>OuterRim_RebelFleetOfficer</li>
+				<li>OuterRim_RebelHeavyTrooper</li>
+				<li>OuterRim_RebelScoutTrooper</li>
+				<li>OuterRim_RebelJumpTrooper</li>
+				<li>OuterRim_RebelOfficer</li>
+				<li>OuterRim_RebelCellLeader</li>
+				<li>OuterRim_RebelEndorTrooper</li>
+				<li>OuterRim_RebelSnowTrooper</li>
+				<li>OuterRim_RebelInsurgent_PlayerNoHelmet</li>
+				<li>OuterRim_Crusader_MeleeMerc</li>
+				<li>OuterRim_Crusader_LightMerc</li>
+				<li>OuterRim_Crusader_MediumMerc</li>
+				<li>OuterRim_Crusader_HeavyMerc</li>
+				<li>OuterRim_MandoCrusader_Trader</li>
+				<li>OuterRim_MandoCrusader_Trooper</li>
+				<li>OuterRim_MandoCrusader_RallyMaster</li>
+				<li>OuterRim_MandoCrusader_FieldMarshal</li>
+				<li>OuterRim_MandoCrusader_Leader</li>
+				<li>OuterRim_DeathWatch_MeleeMerc</li>
+				<li>OuterRim_DeathWatch_LightMerc</li>
+				<li>OuterRim_DeathWatch_MediumMerc</li>
+				<li>OuterRim_DeathWatch_HeavyMerc</li>
+				<li>OuterRim_DeathWatch_Trooper</li>
+				<li>OuterRim_DeathWatch_Officer</li>
+				<li>OuterRim_DeathWatch_Trader</li>
+				<li>OuterRim_DeathWatch_Leader</li>
+				<li>OuterRim_Mando_Player</li>
+				<li>OuterRim_OldRepublicTrader</li>
+				<li>OuterRim_OldRepublicTrooper</li>
+				<li>OuterRim_OldRepublicCaptain</li>
+				<li>OuterRim_OldRepublicIncinerator</li>
+				<li>OuterRim_OldRepublicOfficer</li>
+				<li>OuterRim_OldRepublicCommander</li>
+				<li>OuterRim_SithEmpireTrader</li>
+				<li>OuterRim_SithTrooper</li>
+				<li>OuterRim_SithCaptain</li>
+				<li>OuterRim_SithIncinerator</li>
+				<li>OuterRim_SithEmpireOfficer</li>
+				<li>OuterRim_SithCommander</li>
+				<li>OuterRim_OldRepublicOfficer_Player</li>
+				<li>OuterRim_OldRepublicTrooper_PlayerNoHelmet</li>
+				<li>OuterRim_OldRepublicTrooper_PlayerRecruit</li>
+				<li>OuterRim_SithOfficer_Player</li>
+				<li>OuterRim_SithTrooper_PlayerNoHelmet</li>
+				<li>OuterRim_SithTrooper_PlayerRecruit</li>
+				<li>OuterRim_Gizka</li>
+				<li>OuterRim_ImperialArmyTrooper</li>
+				<li>OuterRim_ImperialArmyHeavy</li>
+				<li>OuterRim_ImperialArmyOfficer</li>
+				<li>OuterRim_ImperialArmyCommander</li>
+				<li>OuterRim_ImperialTrader</li>
+				<li>OuterRim_ImpStormtrooper</li>
+				<li>OuterRim_ImpStormtrooper_Officer</li>
+				<li>OuterRim_ImpStormArty</li>
+				<li>OuterRim_ImpStormJump</li>
+				<li>OuterRim_ImpStormIncinerator</li>
+				<li>OuterRim_ImpStormtrooper_Desert</li>
+				<li>OuterRim_ImpStormtrooper_Snow</li>
+				<li>OuterRim_ImpStormScout</li>
+				<li>OuterRim_ImperialOfficer</li>
+				<li>OuterRim_ImpISBAgent</li>
+				<li>OuterRim_ImpStormCommander</li>
+				<li>OuterRim_ImperialArmy_PlayerStarter</li>
+				<li>OuterRim_ImperialArmy_PlayerRecruit</li>
+				<li>OuterRim_Stormtrooper_PlayerNoHelmet</li>
+				<li>OuterRim_Stormtrooper_PlayerRecruit</li>
+				<li>OuterRim_EscapedBattleDroid</li>
+				<li>OuterRim_MuckrakerDroid</li>
+				<li>OuterRim_DestroyerDroid</li>
+				<li>OuterRim_DUMDroid</li>
+				<li>OuterRim_FX7Droid</li>
+				<li>OuterRim_GNKDroid</li>
+				<li>OuterRim_MSEDroid</li>
+				<li>OuterRim_RSeriesDroid</li>
+				<li>OuterRim_SalvageAssistDroid</li>
+				<li>OuterRim_BattleDroid</li>
+				<li>OuterRim_BattleDroidAdvanced</li>
+				<li>OuterRim_CommandoDroid</li>
+				<li>OuterRim_HKDroid</li>
+				<li>OuterRim_ImperialLaborDroid</li>
+				<li>OuterRim_KXSecurityDroid</li>
+				<li>OuterRim_MagnaGuardDroid</li>
+				<li>OuterRim_ProtocolDroid</li>
+				<li>OuterRim_SuperBattleDroid</li>
+				<li>OuterRim_SuperTacticalDroid</li>
+				<li>OuterRim_TacticalDroid</li>
+				<li>Empire_Caster_Conflagrator</li>
+				<li>Empire_Caster_Archotechist</li>
+				<li>Empire_Caster_Warlord_Ranged</li>
+				<li>Empire_Caster_Warlord_Melee</li>
+				<li>Empire_Caster_Protector</li>
+				<li>Tribal_Caster_Wildspeaker</li>
+				<li>Tribal_Caster_Conflagrator</li>
+				<li>Tribal_Caster_Frostshaper</li>
+				<li>Tribal_Caster_Staticlord</li>
+				<li>VPE_SteelConstruct</li>
+				<li>VPE_RockConstruct</li>
+				<li>VPE_SummonedSkeleton</li>
+				<li>MercenarySaber</li>
+				<li>Force_Jedi_Padawan</li>
+				<li>Force_Jedi_Sentinel</li>
+				<li>Force_Jedi_Guardian</li>
+				<li>Force_Jedi_Consular</li>
+				<li>Force_Jedi_Master</li>
+				<li>Force_Jedi_Grandmaster</li>
+				<li>Force_Jedi_Trader</li>
+				<li>JediInBlack</li>
+				<li>Force_Sith_Apprentice</li>
+				<li>Force_Sith_Assassin</li>
+				<li>Force_Sith_Warrior</li>
+				<li>Force_Sith_Sorcerer</li>
+				<li>Force_Sith_Lord</li>
+				<li>Force_Sith_Darklord</li>
+				<li>Force_Sith_Trader</li>
+				<li>SithSorcery_Terentatek_PawnKind</li>
+				<li>VQE_Inventor</li>
+				<li>AA_BlackScarab_Temporary</li>
+				<li>AA_BlackSpelopede_Temporary</li>
+				<li>AA_BlackSpider_Temporary</li>
+				<li>AA_MammothWorm_Temporary</li>
+				<li>AA_BlackLarvae</li>
+				<li>AAVPE_BlackQueen</li>
+				<li>AA_OcularOriginator</li>
+				<li>AA_Summoned_Eyeling</li>
+				<li>AA_AcanthamoebaGiganteaSmall</li>
+				<li>AA_AcanthamoebaGiganteaLarge</li>
+				<li>AA_AcanthamoebaGiganteaHuge</li>
+				<li>AA_Aerofleet</li>
+				<li>AA_ColossalAerofleet</li>
+				<li>AA_Agaripawn</li>
+				<li>AA_Agaripod</li>
+				<li>AA_AngelMothLarva</li>
+				<li>AA_AngelMoth</li>
+				<li>AA_AnimaColossus</li>
+				<li>AA_Animalisk</li>
+				<li>AA_AnimusVox</li>
+				<li>AA_ArcticLion</li>
+				<li>AA_LarvalAtispec</li>
+				<li>AA_Atispec</li>
+				<li>AA_AuroraSylph</li>
+				<li>AA_Barbslinger</li>
+				<li>AA_BedBug</li>
+				<li>AA_Behemoth</li>
+				<li>AA_BlackScarab</li>
+				<li>AA_BlackSpelopede</li>
+				<li>AA_BlackSpider</li>
+				<li>AA_Blizzarisk</li>
+				<li>AA_BlizzariskClutchMother</li>
+				<li>AA_BloodShrimp</li>
+				<li>AA_Bobeene</li>
+				<li>AA_BoulderMit</li>
+				<li>AA_SummitCrab</li>
+				<li>AA_Bumbledrone</li>
+				<li>AA_BumbledroneHierophant</li>
+				<li>AA_BumbledroneQueen</li>
+				<li>AA_Cactipine</li>
+				<li>AA_ChameleonYak</li>
+				<li>AA_ChemfuelMyrmidon</li>
+				<li>AA_Cinderlisk</li>
+				<li>AA_CrepuscularBeetle</li>
+				<li>AA_CrescendoAnole</li>
+				<li>AA_CrystallineCaracal</li>
+				<li>AA_CrystalMit</li>
+				<li>AA_Darkbeast</li>
+				<li>AA_DarkVandal</li>
+				<li>AA_DecayDrake</li>
+				<li>AA_DesertAve</li>
+				<li>AA_DevilSheep</li>
+				<li>AA_DrainerLarva</li>
+				<li>AA_Drainer</li>
+				<li>AA_Dunealisk</li>
+				<li>AA_DunealiskClutchMother</li>
+				<li>AA_DuskProwler</li>
+				<li>AA_DuskRat</li>
+				<li>AA_EmpressButterflyLarva</li>
+				<li>AA_EmpressButterfly</li>
+				<li>AA_EngorgedTentacularAberration</li>
+				<li>AA_Erin</li>
+				<li>AA_Feralisk</li>
+				<li>AA_FeraliskClutchMother</li>
+				<li>AA_FireWasp</li>
+				<li>AA_FissionMouse</li>
+				<li>AA_FissionMouseSecond</li>
+				<li>AA_FissionMouseThird</li>
+				<li>AA_FlamingoPhoenix</li>
+				<li>AA_FrostAve</li>
+				<li>AA_FrostboundBehemoth</li>
+				<li>AA_Frostling</li>
+				<li>AA_FrostLynx</li>
+				<li>AA_Frostmite</li>
+				<li>AA_FungalHusk</li>
+				<li>AA_Gallatross</li>
+				<li>AA_GallatrossMoribund</li>
+				<li>AA_Genix</li>
+				<li>AA_GiantCrownedSilkie</li>
+				<li>AA_Gigantelope</li>
+				<li>AA_GreatDevourer</li>
+				<li>AA_GreenGoo</li>
+				<li>AA_GreyCoatedMouflon</li>
+				<li>AA_Groundrunner</li>
+				<li>AA_Helixien</li>
+				<li>AA_InfectedAerofleet</li>
+				<li>AA_IronhuskBeetle</li>
+				<li>AA_Junglelisk</li>
+				<li>AA_Lockjaw</li>
+				<li>AA_LuciferBug</li>
+				<li>AA_MammothWorm</li>
+				<li>AA_Mantrap</li>
+				<li>AA_MatureFleshbeast</li>
+				<li>AA_MeadowAve</li>
+				<li>AA_MegaLouse</li>
+				<li>AA_Metallovore</li>
+				<li>AA_Mime</li>
+				<li>AA_Murkling</li>
+				<li>AA_MycoidColossus</li>
+				<li>AA_Needlepost</li>
+				<li>AA_Needleroll</li>
+				<li>AA_NightMule</li>
+				<li>AA_NightAve</li>
+				<li>AA_Nightling</li>
+				<li>AA_NightRam</li>
+				<li>AA_OcularJelly</li>
+				<li>AA_OcularNightling</li>
+				<li>AA_OvergrownColossus</li>
+				<li>AA_PebbleMit</li>
+				<li>AA_PedigreedRaptor</li>
+				<li>AA_PhoenixOwlcat</li>
+				<li>AA_Plasmorph</li>
+				<li>AA_Radyak</li>
+				<li>AA_RaptorShrimp</li>
+				<li>AA_Ravager</li>
+				<li>AA_RayHound</li>
+				<li>AA_Razorjack</li>
+				<li>AA_RedGoo</li>
+				<li>AA_RedSpore</li>
+				<li>AA_RipperHound</li>
+				<li>AA_RoughPlatedMonitor</li>
+				<li>AA_RoyalAve</li>
+				<li>AA_SandLion</li>
+				<li>AA_SandProwler</li>
+				<li>AA_SandSquid</li>
+				<li>AA_ShadowCharger</li>
+				<li>AA_ShockGoat</li>
+				<li>AA_Skiphound</li>
+				<li>AA_Skyeel</li>
+				<li>AA_Slurrypede</li>
+				<li>AA_SpinedGow</li>
+				<li>AA_Swarmling</li>
+				<li>AA_TarGuzzler</li>
+				<li>AA_TeratogenicOriginator</li>
+				<li>AA_Terramorph</li>
+				<li>AA_TetraSlug</li>
+				<li>AA_Thermadon</li>
+				<li>AA_Thunderbeast</li>
+				<li>AA_Thunderox</li>
+				<li>AA_UnblinkingEye</li>
+				<li>AA_Wildpawn</li>
+				<li>AA_Wildpod</li>
+				<li>AA_WindBeast</li>
+				<li>VAERoy_AngoraRabbit</li>
+				<li>VAERoy_Crane</li>
+				<li>VAERoy_Megachicken</li>
+				<li>VAERoy_Orangutan</li>
+				<li>VAERoy_Peacock</li>
+				<li>VAERoy_Pheasant</li>
+				<li>VAERoy_Quail</li>
+				<li>VAERoy_RoyalTiger</li>
+				<li>VAERoy_Swan</li>
+				<li>AEXP_Coyote</li>
+				<li>AEXP_Giraffe</li>
+				<li>AEXP_Hippopotamus</li>
+				<li>AEXP_Zebra</li>
+				<li>AEXP_Wildebeest</li>
+				<li>AEXP_Crocodile</li>
+				<li>AEXP_Cheetah</li>
+				<li>AEXP_Boombat</li>
+				<li>AEXP_Kangaroo</li>
+				<li>AEXP_Koala</li>
+				<li>AEXP_Platypus</li>
+				<li>AEXP_Otter</li>
+				<li>AEXP_ArcticCoyote</li>
+				<li>AEXP_BlackBear</li>
+				<li>AEXP_CatAbyssinian</li>
+				<li>AEXP_CatBengal</li>
+				<li>AEXP_CatBritishShorthair</li>
+				<li>AEXP_CatMaineCoon</li>
+				<li>AEXP_CatMunchkin</li>
+				<li>AEXP_CatNorwegianForest</li>
+				<li>AEXP_CatPersian</li>
+				<li>AEXP_CatSiamese</li>
+				<li>AEXP_CatSomali</li>
+				<li>AEXP_CatSphynx</li>
+				<li>AEXP_Hyena</li>
+				<li>AEXP_DesertTortoise</li>
+				<li>AEXP_Lion</li>
+				<li>AEXP_GilaMonster</li>
+				<li>AEXP_Beagle</li>
+				<li>AEXP_Chihuahua</li>
+				<li>AEXP_Corgi</li>
+				<li>AEXP_FrenchBulldog</li>
+				<li>AEXP_GermanShepherd</li>
+				<li>AEXP_GreatDane</li>
+				<li>AEXP_Poodle</li>
+				<li>AEXP_Pug</li>
+				<li>AEXP_Rottweiler</li>
+				<li>AEXP_Shih-Tzu</li>
+				<li>AEXP_WelshTerrier</li>
+				<li>AEXP_Camel</li>
+				<li>AEXP_Rattlesnake</li>
+				<li>AEXP_Megascorpion</li>
+				<li>AEXP_Penguin</li>
+				<li>AEXP_Seal</li>
+				<li>AEXP_Walrus</li>
+				<li>AEXP_RedPanda</li>
+				<li>AEXP_Badger</li>
+				<li>AEXP_WildGoose</li>
+				<li>AEXP_Beaver</li>
+				<li>AEXP_Hedgehog</li>
+				<li>AEXP_Gorilla</li>
+				<li>AEXP_Jaguar</li>
+				<li>AEXP_Lemur</li>
+				<li>AEXP_Mandrill</li>
+				<li>AEXP_Tapir</li>
+				<li>AEXP_Tiger</li>
+				<li>AEXP_Alligator</li>
+				<li>AEXP_Anaconda</li>
+				<li>AEXP_IndianElephant</li>
+				<li>AEXP_Muskox</li>
+				<li>AEXP_Moose</li>
+				<li>AEXP_MegaWolverine</li>
+				<li>AEXP_Porcupine</li>
+				<li>AM_Dryad_Ocular</li>
+				<li>AM_Dryad_Spitter</li>
+				<li>AM_Dryad_Corruptor</li>
+				<li>AM_Dryad_Unstable</li>
+				<li>AM_Dryad_Tumorous</li>
+				<li>AA_Eyeling</li>
+				<li>AM_UnshackledDryad</li>
+				<li>Archocat</li>
+				<li>Archomutt</li>
+				<li>Archojerboa</li>
+				<li>Archoffalo</li>
+				<li>Archolope</li>
+				<li>Archothrumbo</li>
+				<li>Archotortoise</li>
+				<li>Archopanda</li>
+				<li>Archostrich</li>
+				<li>Archospider</li>
+				<li>SpaceCannibal</li>
+				<li>SpaceCrew</li>
+				<li>SpaceCrewEVA</li>
+				<li>SpaceCrewMarine</li>
+				<li>SpaceCrewMarineHeavy</li>
+				<li>Astromite</li>
+				<li>Stellapede</li>
+				<li>Cosmopillar</li>
+				<li>SoSHologram</li>
+				<li>Dewback</li>
+				<li>Rancor</li>
+				<li>Bantha</li>
+				<li>Nexu</li>
+				<li>Acklay</li>
+				<li>Tauntaun</li>
+				<li>KraytDragon</li>
+				<li>Reek</li>
+				<li>Nerf</li>
+				<li>Gizka</li>
+				<li>Porg</li>
+				<li>Vulptex</li>
+				<li>Wampa</li>
+				<li>Aiwha</li>
+				<li>Anooba</li>
+				<li>Blarth</li>
+				<li>Blurrg</li>
+				<li>Bogwing</li>
+				<li>Bordok</li>
+				<li>Borcatu</li>
+				<li>CanCell</li>
+				<li>Cannok</li>
+				<li>CorellianHound</li>
+				<li>Dactillion</li>
+				<li>Dianoga</li>
+				<li>Eopie</li>
+				<li>Fambaa</li>
+				<li>FeralGrazer</li>
+				<li>FeralNerf</li>
+				<li>FrogDog</li>
+				<li>Gelagrub</li>
+				<li>Gorg</li>
+				<li>Gornt</li>
+				<li>GraniteSlug</li>
+				<li>Grazer</li>
+				<li>Gundark</li>
+				<li>Hawkbat</li>
+				<li>Iriaz</li>
+				<li>Kaadu</li>
+				<li>Katarn</li>
+				<li>KowakianMonkeyLizard</li>
+				<li>Kinrath</li>
+				<li>Krykna</li>
+				<li>Kreetle</li>
+				<li>KwazelMaw</li>
+				<li>Kybuck</li>
+				<li>LavaFlea</li>
+				<li>Leaftail</li>
+				<li>Lothcat</li>
+				<li>Massiff</li>
+				<li>Mastmot</li>
+				<li>Mott</li>
+				<li>Mynock</li>
+				<li>Narglatch</li>
+				<li>Nuna</li>
+				<li>Orray</li>
+				<li>PaintedSpat</li>
+				<li>Pikobis</li>
+				<li>Ronto</li>
+				<li>Runyip</li>
+				<li>Scurrier</li>
+				<li>Shaak</li>
+				<li>Shiro</li>
+				<li>Skalder</li>
+				<li>TeeMuss</li>
+				<li>Vapaad</li>
+				<li>Varactyl</li>
+				<li>Voorpak</li>
+				<li>WompRat</li>
+				<li>Worrt</li>
+				<li>Empire_Space_Laborer</li>
+				<li>Empire_Fighter_Marine_Space</li>
+				<li>Empire_Fighter_Cataphract_Space</li>
+				<li>SoS2_Shuttle_Personal_PawnKind</li>
+				<li>SoS2_Shuttle_PawnKind</li>
+				<li>SoS2_Shuttle_Heavy_PawnKind</li>
+				<li>SoS2_Shuttle_Superheavy_PawnKind</li>
+			</keys>
+			<values>
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>Neanderthal</li>
+							<li>Impid</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Pigskin</li>
+							<li>Waster</li>
+						</keys>
+						<values>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>500</chance>
+							</li>
+							<li>
+								<chance>500</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>Neanderthal</li>
+							<li>Impid</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Pigskin</li>
+							<li>Waster</li>
+						</keys>
+						<values>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>334</chance>
+							</li>
+							<li>
+								<chance>333</chance>
+							</li>
+							<li>
+								<chance>333</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>Neanderthal</li>
+							<li>Impid</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Pigskin</li>
+							<li>Waster</li>
+						</keys>
+						<values>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>500</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>500</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>Neanderthal</li>
+							<li>Impid</li>
+							<li>Yttakin</li>
+							<li>Highmate</li>
+							<li>Dirtmole</li>
+							<li>Genie</li>
+							<li>Hussar</li>
+							<li>Pigskin</li>
+							<li>Waster</li>
+						</keys>
+						<values>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>500</chance>
+							</li>
+							<li>
+								<chance>500</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+						</keys>
+						<values>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>95</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+						</keys>
+						<values>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>95</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+						</keys>
+						<values>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>95</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+						</keys>
+						<values>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>95</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+						</keys>
+						<values>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>95</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+						</keys>
+						<values>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>95</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+						</keys>
+						<values>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>95</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+						</keys>
+						<values>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>95</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+						</keys>
+						<values>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>95</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+						</keys>
+						<values>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>95</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>OuterRim_Abednedo</li>
+							<li>OuterRim_Aqualish</li>
+							<li>OuterRim_Bith</li>
+							<li>OuterRim_Cerean</li>
+							<li>OuterRim_Duros</li>
+							<li>OuterRim_Gungan</li>
+							<li>OuterRim_Herglic</li>
+							<li>OuterRim_Iktotchi</li>
+							<li>OuterRim_Iridonian</li>
+							<li>OuterRim_Ithorian</li>
+							<li>OuterRim_Miraluka</li>
+							<li>OuterRim_Mirialan</li>
+							<li>OuterRim_MonCalamari</li>
+							<li>OuterRim_Neimoidian</li>
+							<li>OuterRim_Nikto</li>
+							<li>OuterRim_Pantoran</li>
+							<li>OuterRim_Pyke</li>
+							<li>OuterRim_Quarren</li>
+							<li>OuterRim_Selkath</li>
+							<li>OuterRim_Togruta</li>
+							<li>OuterRim_Trandoshan</li>
+							<li>OuterRim_Twilek</li>
+							<li>OuterRim_Umbaran</li>
+							<li>OuterRim_Wookiee</li>
+						</keys>
+						<values>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>46</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>95</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+							<li>
+								<chance>45</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+			</values>
+		</XenotypesByPawnKindDef>
+	</ModSettings>
+</SettingsBlock>

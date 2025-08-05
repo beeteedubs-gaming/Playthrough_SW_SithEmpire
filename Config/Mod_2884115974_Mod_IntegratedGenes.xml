@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="IntegratedGenes.ModSettings_IntegratedGenes">
+		<doUnspawnedPsylink>True</doUnspawnedPsylink>
+		<doOutsiderLink>True</doOutsiderLink>
+		<doNewColonistLink>True</doNewColonistLink>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SlaveRebellionsImproved.SettingsClass+SlaveSettings">
+		<rebellionMin>0.4007043</rebellionMin>
+	</ModSettings>
+</SettingsBlock>

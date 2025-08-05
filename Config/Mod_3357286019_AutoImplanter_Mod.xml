@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AutoImplanter.AutoImplanter_Settings">
+		<ImplanterPresets>
+			<li>
+				<label>Sith</label>
+				<totalWorkAmount>15000</totalWorkAmount>
+				<implants>
+					<li>
+						<ImplantRecipe>InstallBionicArm</ImplantRecipe>
+						<ImplantBodyPart>
+							<body>Human</body>
+							<index>23</index>
+						</ImplantBodyPart>
+					</li>
+					<li>
+						<ImplantRecipe>InstallBionicLeg</ImplantRecipe>
+						<ImplantBodyPart>
+							<body>Human</body>
+							<index>55</index>
+						</ImplantBodyPart>
+					</li>
+					<li>
+						<ImplantRecipe>InstallCoagulator</ImplantRecipe>
+						<ImplantBodyPart>
+							<body>Human</body>
+							<index>0</index>
+						</ImplantBodyPart>
+					</li>
+					<li>
+						<ImplantRecipe>InstallHealingEnhancer</ImplantRecipe>
+						<ImplantBodyPart>
+							<body>Human</body>
+							<index>0</index>
+						</ImplantBodyPart>
+					</li>
+					<li>
+						<ImplantRecipe>InstallStoneskinGland</ImplantRecipe>
+						<ImplantBodyPart>
+							<body>Human</body>
+							<index>0</index>
+						</ImplantBodyPart>
+					</li>
+					<li>
+						<ImplantRecipe>InstallReprocessorStomach</ImplantRecipe>
+						<ImplantBodyPart>
+							<body>Human</body>
+							<index>5</index>
+						</ImplantBodyPart>
+					</li>
+				</implants>
+			</li>
+		</ImplanterPresets>
+	</ModSettings>
+</SettingsBlock>

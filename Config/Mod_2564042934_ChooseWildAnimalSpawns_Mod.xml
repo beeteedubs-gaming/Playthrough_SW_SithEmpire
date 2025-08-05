@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ChooseWildAnimalSpawns.ChooseWildAnimalSpawns_Settings">
+		<CustomSpawnRates>
+			<keys>
+				<li>AB_RockyCrags</li>
+				<li>AB_FeraliskInfestedJungle</li>
+				<li>AB_GelatinousSuperorganism</li>
+				<li>AB_MiasmicMangrove</li>
+				<li>AB_MycoticJungle</li>
+				<li>AB_PropaneLakes</li>
+				<li>AB_PyroclasticConflagration</li>
+			</keys>
+			<values>
+				<li>#AEXP_Alligator:0.3#Alpaca:0.5#AEXP_Anaconda:0.07#Blarth:0.04#Bogwing:0.04#Boomalope:0.5#Borcatu:0.8#Bordok:0.04#CanCell:0.8#Cannok:0.8#Capybara:0.5#Cassowary:0.5#Chinchilla:0.5#Cobra:0.15#Dianoga:0.8#Elephant:0.5#Fambaa:0.8#FeralNerf:0.03#Gelagrub:0.6#Gizka:0.8#Gorg:0.8#GraniteSlug:0.1#GuineaPig:0.18#Gundark:0.1#Hawkbat:0.04#AEXP_Hippopotamus:0.5#AEXP_IndianElephant:0.5#Kaadu:0.9#Katarn:0.04#Kinrath:0.6#AEXP_Koala:0.05#KowakianMonkeyLizard:0.6#Kreetle:0.01#Krykna:0.01#KwazelMaw:0.8#Kybuck:0.04#Leaftail:0.8#AEXP_Lemur:0#Monkey:1#Mott:0.9#Mynock:0.1#Narglatch:0.08#Nuna:0.9#Panther:0.15#Pikobis:0.04#AEXP_Platypus:0.15#Porg:0.4#Rat:1#Rhinoceros:0.5#Runyip:0.6#Scurrier:0.01#Shiro:0.8#TeeMuss:0.04#Tortoise:0.5#Vapaad:0.4#Voorpak:0.01#Vulptex:0.01#WildBoar:0.5#Worrt:0.4</li>
+				<li>#Acklay:0.8#Aiwha:0.01#AEXP_Alligator:0.07#Alpaca:0.5#AEXP_Anaconda:0.03#Anooba:0.08#Bantha:0.01#Blarth:0.03#Blurrg:0.15#Bogwing:0.03#Boomalope:0.5#Borcatu:0.8#Bordok:0.04#CanCell:0.8#Cannok:0.8#Capybara:0.5#Cassowary:0.5#Chinchilla:0.5#Cobra:0.15#AEXP_Crocodile:0#Dactillion:0.4#Dewback:0.01#Dianoga:0.1#Elephant:0.5#Eopie:0.2#Fambaa:0.4#FeralGrazer:0.2#FeralNerf:0.04#Gelagrub:0.8#Gizka:0.8#Gorg:0.8#AEXP_Gorilla:0.6#GraniteSlug:0.1#GuineaPig:0.25#Gundark:0.1#Hawkbat:0.08#AEXP_Hedgehog:0#AEXP_Hippopotamus:0#Horse:0#AEXP_IndianElephant:0.4#Iriaz:1#AEXP_Jaguar:0.15#Kaadu:0.4#Katarn:0.08#Kinrath:0.8#AEXP_Koala:0.05#KowakianMonkeyLizard:0.8#Kreetle:0.8#Krykna:0.01#KwazelMaw:0.2#Kybuck:0.8#Leaftail:0.8#AEXP_Lemur:1#AEXP_Mandrill:0.5#Massiff:0.1#AEXP_Megascorpion:0#Monkey:1#Mott:0.4#Mynock:0.1#Narglatch:0.04#Nerf:0.03#Nexu:0.02#Nuna:0.4#AEXP_Otter:0#PaintedSpat:0.08#Panther:0.15#Pikobis:0.4#AEXP_Platypus:0.05#Porg:0.4#Rancor:0.01#Rat:1#AEXP_RedPanda:0.05#Reek:0.01#Rhinoceros:0.5#Ronto:0.2#Runyip:0.8#Scurrier:0.8#Shaak:0.4#Shiro:0.6#Skalder:0.03#AEXP_Tapir:0.5#TeeMuss:0.08#AEXP_Tiger:0.15#Tortoise:0.5#Vapaad:0.4#Varactyl:0.8#Voorpak:0.8#Vulptex:0.4#WildBoar:0.5#AEXP_WildGoose:0#AEXP_Wildebeest:0#WompRat:0.4#Worrt:0.4</li>
+				<li>#Acklay:0.08#Aiwha:0.04#AEXP_Alligator:0#AEXP_Anaconda:0#Anooba:0.04#AEXP_Badger:0.2#Bantha:0.02#AEXP_Beaver:0.2#Bison:0.07#AEXP_BlackBear:0#Blarth:0.01#Blurrg:0.16#Bogwing:0.01#Boomalope:0.4#AEXP_Boombat:0.5#Boomrat:0.4#Borcatu:0.16#Bordok:0.8#CanCell:0.4#Cannok:0.16#Capybara:0#Cassowary:0#Chinchilla:0#Cobra:0#Cougar:0.07#AEXP_Crocodile:0#Dactillion:0.08#Deer:0.5#Dewback:0.04#Dianoga:0.01#Donkey:0.2#Elephant:0#Eopie:0.04#Fambaa:0.01#FeralGrazer:0.8#FeralNerf:0.15#Gazelle:0.3#Gelagrub:0.04#Gizka:0.4#Gorg:0.04#AEXP_Gorilla:0#GraniteSlug:0.1#Bear_Grizzly:0.07#GuineaPig:0.45#Gundark:0.1#Hare:1#Hawkbat:0.01#AEXP_Hedgehog:1#AEXP_Hippopotamus:0#Horse:0.2#Ibex:0.5#AEXP_IndianElephant:0#Iriaz:0.8#AEXP_Jaguar:0#Kaadu:0.5#AEXP_Kangaroo:0.05#Katarn:0.04#Kinrath:0.01#AEXP_Koala:0.15#KowakianMonkeyLizard:0.4#Kreetle:0.01#Krykna:0.01#Kybuck:1#Leaftail:0.4#AEXP_Lemur:0#Lynx:0.07#AEXP_Mandrill:0#Mastmot:0.01#Megasloth:0.2#AEXP_MegaWolverine:0#Monkey:0#Mott:0.5#Muffalo:0.5#AEXP_Muskox:0#Mynock:0.1#Narglatch:0.01#Nerf:0.03#Nexu:0.06#Nuna:0.5#AEXP_Otter:0#PaintedSpat:0.01#Panther:0#Pikobis:0.01#AEXP_Platypus:0.05#AEXP_Porcupine:0#Porg:0.8#Raccoon:0.5#Rancor:0.01#Fox_Red:0.07#AEXP_RedPanda:0.6#Reek:0.04#Rhinoceros:0.1#Ronto:0.01#Runyip:0.8#Scurrier:0.01#Shaak:0.8#Shiro:0.6#Skalder:0.01#Squirrel:1#AEXP_Tapir:0#TeeMuss:0.08#AEXP_Tiger:0#Wolf_Timber:0.07#Tortoise:0.3#Turkey:0.5#Vapaad:0.01#Varactyl:0.08#Voorpak:0.8#Vulptex:0.1#Warg:0.07#AEXP_WildGoose:0.5#WompRat:0.01#Worrt:0.01#Yak:0.06</li>
+				<li>#Acklay:0.8#Aiwha:0.01#AEXP_Alligator:0.07#AEXP_Anaconda:0.03#Anooba:0.08#Bantha:0.01#Blarth:0.03#Blurrg:0.15#Bogwing:0.03#Borcatu:0.8#Bordok:0.04#CanCell:0.8#Cannok:0.8#Dactillion:0.4#Dewback:0.01#Dianoga:0.1#Eopie:0.2#Fambaa:0.4#FeralGrazer:0.2#FeralNerf:0.04#Gelagrub:0.8#Gizka:0.8#Gorg:0.8#AEXP_Gorilla:0.6#GraniteSlug:0.1#GuineaPig:0.25#Gundark:0.1#Hawkbat:0.08#Horse:0#AEXP_IndianElephant:0.4#Iriaz:1#AEXP_Jaguar:0.15#Kaadu:0.4#Katarn:0.08#Kinrath:0.8#AEXP_Koala:0.05#KowakianMonkeyLizard:0.8#Kreetle:0.8#Krykna:0.01#KwazelMaw:0.2#Kybuck:0.8#Leaftail:0.8#AEXP_Lemur:1#AEXP_Mandrill:0.5#Massiff:0.1#Mott:0.4#Mynock:0.1#Narglatch:0.04#Nerf:0.03#Nexu:0.02#Nuna:0.4#PaintedSpat:0.08#Pikobis:0.4#AEXP_Platypus:0.05#Porg:0.4#Rancor:0.01#AEXP_RedPanda:0.05#Reek:0.01#Ronto:0.2#Runyip:0.8#Scurrier:0.8#Shaak:0.4#Shiro:0.6#Skalder:0.03#AEXP_Tapir:0.5#TeeMuss:0.08#AEXP_Tiger:0.15#Vapaad:0.4#Varactyl:0.8#Voorpak:0.8#Vulptex:0.4#WompRat:0.4#Worrt:0.4</li>
+				<li>#Acklay:0.014#AEXP_Alligator:0#Alpaca:0#AEXP_Anaconda:0#Anooba:0.16#AEXP_Badger:0#Bantha:0.5#Bison:0.1#AEXP_BlackBear:0#Blurrg:0.16#AEXP_Boombat:0.25#Boomrat:0.5#Borcatu:0.16#Cannok:0.16#Cassowary:0#AEXP_Cheetah:0.9#Chinchilla:0#Cobra:0#Cougar:0.15#AEXP_Coyote:0.8#AEXP_Crocodile:0.6#Dactillion:0.8#AEXP_DesertTortoise:0.2#Dewback:0.02#Donkey:0.2#Dromedary:0.7#Elephant:0.5#Emu:0.7#Eopie:0.8#Fox_Fennec:0.15#FeralGrazer:0.04#FeralNerf:0.04#Gazelle:0.7#AEXP_Giraffe:1#Gizka:0.4#Gorg:1#AEXP_Gorilla:0#GraniteSlug:0.1#GuineaPig:0.017#Gundark:0.1#Hare:1.3#Hawkbat:0.01#AEXP_Hedgehog:0#AEXP_Hippopotamus:1#Horse:0.1#AEXP_Hyena:0.6#Iguana:0.7#Iriaz:1#AEXP_Jaguar:0#AEXP_Kangaroo:0.25#Katarn:0.01#Kinrath:0.01#AEXP_Koala:0.25#KowakianMonkeyLizard:0.01#KraytDragon:0.04#Kreetle:0.8#Krykna:0.01#Kybuck:0.6#LavaFlea:0.01#AEXP_Lemur:0.2#AEXP_Lion:0.5#AEXP_Mandrill:0#Massiff:0.6#Megasloth:0.1#AEXP_Moose:0#Mynock:0.1#Narglatch:0.01#Nerf:0.03#Nexu:0.07#Nuna:0.4#Ostrich:0.7#AEXP_Otter:0#PaintedSpat:0.08#Pikobis:0.04#AEXP_Porcupine:0#Porg:0.01#Raccoon:0#Rancor:0.01#Rat:1.3#AEXP_RedPanda:0#Reek:0.02#Rhinoceros:0.5#Ronto:0.8#Runyip:0.01#Scurrier:0.8#Shaak:0.08#Shiro:0.04#Skalder:0.08#AEXP_Tapir:0#TeeMuss:0.08#AEXP_Tiger:0#Vapaad:0.08#Varactyl:0.8#Voorpak:0.02#Vulptex:0.08#Warg:0#WildBoar:0#AEXP_WildGoose:0#AEXP_Wildebeest:1#WompRat:0.4#Worrt:0.4#AEXP_Zebra:1</li>
+				<li>#Acklay:0.008#Aiwha:0.05#Anooba:0.12#AEXP_ArcticCoyote:0.4#Fox_Arctic:0.07#Wolf_Arctic:0.07#Bantha:0.5#AEXP_BlackBear:0.07#Borcatu:0.02#Bordok:0.4#Cannok:0.02#Caribou:2#Dewback:0.05#Elk:2#Eopie:0.04#FeralGrazer:0.4#FeralNerf:0.08#Gizka:0.01#GraniteSlug:0.1#Bear_Grizzly:0.07#Gundark:0.01#Hare:2#Hawkbat:0.03#Ibex:2#Iriaz:0.01#KraytDragon:0.01#Krykna:0.1#Kybuck:0.4#Leaftail:0.01#Lynx:0.07#Mastmot:0.8#Megasloth:0.2#AEXP_MegaWolverine:0.3#AEXP_Moose:1#Muffalo:2#AEXP_Muskox:1.5#Mynock:0.1#Narglatch:0.08#Nerf:0.03#Nexu:0.02#AEXP_Otter:0.4#AEXP_Penguin:0#Bear_Polar:0.07#AEXP_Porcupine:0.6#Porg:0.01#Rancor:0.01#Ronto:0.01#Scurrier:0.01#AEXP_Seal:0#Shaak:0.04#Skalder:0.02#Snowhare:2#Tauntaun:0.08#TeeMuss:0.4#Wolf_Timber:0.07#Voorpak:0.4#Vulptex:0.4#AEXP_Walrus:0#Wampa:0.08#Warg:0.07</li>
+				<li>#Acklay:0.014#Anooba:0.16#Bantha:0.5#Blurrg:0.16#AEXP_Boombat:0.25#Boomrat:0.5#Borcatu:0.16#Cannok:0.16#AEXP_Cheetah:0.9#AEXP_Coyote:0.8#AEXP_Crocodile:0.6#Dactillion:0.8#AEXP_DesertTortoise:0.2#Dewback:0.02#Eopie:0.8#FeralGrazer:0.04#FeralNerf:0.04#AEXP_Giraffe:1#Gizka:0.4#Gorg:1#GraniteSlug:0.1#Gundark:0.1#Hawkbat:0.01#AEXP_Hippopotamus:1#AEXP_Hyena:0.6#Iriaz:1#AEXP_Kangaroo:0.25#Katarn:0.01#Kinrath:0.01#AEXP_Koala:0.25#KowakianMonkeyLizard:0.01#KraytDragon:0.04#Kreetle:0.8#Krykna:0.01#Kybuck:0.6#LavaFlea:0.01#AEXP_Lemur:0.2#AEXP_Lion:0.5#Massiff:0.6#Mynock:0.1#Narglatch:0.01#Nerf:0.03#Nexu:0.07#Nuna:0.4#Orray:0.08#PaintedSpat:0.08#Pikobis:0.04#Porg:0.01#Rancor:0.01#AEXP_Rattlesnake:0#Reek:0.02#Ronto:0.8#Runyip:0.01#Scurrier:0.8#Shaak:0.08#Shiro:0.04#Skalder:0.08#TeeMuss:0.08#Vapaad:0.08#Varactyl:0.8#Voorpak:0.02#Vulptex:0.08#AEXP_Wildebeest:1#WompRat:0.4#Worrt:0.4#AEXP_Zebra:1</li>
+			</values>
+		</CustomSpawnRates>
+		<CustomDensities>
+			<keys>
+				<li>AB_RockyCrags</li>
+				<li>AB_GelatinousSuperorganism</li>
+				<li>AB_MiasmicMangrove</li>
+				<li>AB_MycoticJungle</li>
+				<li>AB_PropaneLakes</li>
+				<li>AB_PyroclasticConflagration</li>
+				<li>AB_FeraliskInfestedJungle</li>
+			</keys>
+			<values>
+				<li>6.5</li>
+				<li>3.7</li>
+				<li>5.4</li>
+				<li>4.262</li>
+				<li>1.1</li>
+				<li>1.8</li>
+				<li>5.556</li>
+			</values>
+		</CustomDensities>
+	</ModSettings>
+</SettingsBlock>

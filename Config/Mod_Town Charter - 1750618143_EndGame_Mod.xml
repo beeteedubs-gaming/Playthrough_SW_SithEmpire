@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="EndGame.EndGame_ModSettings">
+		<maxDaysActive>15</maxDaysActive>
+		<ticksBetweenIncidents>30000~45442</ticksBetweenIncidents>
+		<dangerHighFromDay>10</dangerHighFromDay>
+	</ModSettings>
+</SettingsBlock>
